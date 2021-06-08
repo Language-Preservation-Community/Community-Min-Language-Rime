@@ -1042,7 +1042,7 @@ use_preset_vocabulary: false
 敗北	pai pok
 敗訴	pai soo
 敗空	pai khang
-歹勢
+歹勢 phai se
 歹面
 歹看面
 歹囝
@@ -11338,6 +11338,8 @@ use_preset_vocabulary: false
 迷死	be si
 謎語	be gir
 謎題	be tere
+袂曉	be hiau
+袂使	be sai
 低迷	te be
 低賤	te cian
 低下	te ha
@@ -23835,9 +23837,13 @@ use_preset_vocabulary: false
 無閒無工	bo aInn bo kang
 無仝	bo kang
 無侗	bo siang
+無𫝛	bo siang
 無侗	bo sang
+無相𫝛	bo sio siang
 無相侗	bo sio siang
 無相侗	bo sann sang
+無仝款	bo kang khuan
+無𫝛款	bo siang khuan
 無侗款	bo siang khuan
 無侗款	bo sang khuan
 無夠	bo kau
