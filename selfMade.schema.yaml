@@ -89,7 +89,7 @@ speller:
     - 'xlit 12345678 [/\]90-;'
 
 translator:
-  dictionary: banlam
+  dictionary: selfMade
   preedit_format:
     - 'xform ([aeiou])(r?m?n*h?g?p?t?k?)([\[/\\\]90\-;]) $1$3$2'
     - 'xform ([aeo])([iueo])([\[/\\\]90\-;]) $1$3$2'
