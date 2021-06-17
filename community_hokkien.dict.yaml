@@ -38,8 +38,10 @@ use_preset_vocabulary: false
 轉厝	tng tshu	10
 轉來	tui lai	10
 轉去	tui khy	10
+𪜶	in	10
 無𫝛	bo siang	10
 無𫝛款	bo siang khuan	10
+按怎	an tsua	10
 魚	gio	10
 魚	gy	10
 魚	hy	10
@@ -47,6 +49,12 @@ use_preset_vocabulary: false
 去	khy	10
 出去	tshut khy	10
 汝好	ly ho	10
+汝	ly	10
+今日	kin jit	10
+逐家好	tak ke ho	10
+逐家	tai ke	10
+阿恬	a tiam	10
+逐家好	tak ke he	10
 ##	a/ah
 啊	a0
 啊	ah0
