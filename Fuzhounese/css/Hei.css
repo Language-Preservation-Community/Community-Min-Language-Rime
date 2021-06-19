@@ -1,0 +1,20 @@
+/* retrieved from Noto Sans CJK */
+@font-face {
+  font-family: 'SourceNoto';
+  src: url("SourceNoto-Regular.ttf");
+}
+
+/* retrieved from Hanazono Mincho */
+@font-face {
+  font-family: 'Hanazono';
+  src: url("Hanazono-Regular.ttf");
+}
+
+@font-face {
+  font-family: 'CLBISymbols';
+  src: url("CLBISymbols-Regular.ttf");
+}
+
+body {
+	font-family: 'Helvetica Neue', Arial, CLBISymbols, 'Source Han Sans K', sans-serif, SourceNoto, Hanazono, serif;
+}
