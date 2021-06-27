@@ -11,7 +11,7 @@ So for non-mandarin speakers, just follow the instructions below\
 Note: Focus on the word 小狼毫 with the window symbol on the left \
 2. Run the installer\
 3. Click on the agree button 我同意 as shown in the picture\
-![Agree](Rime_Installation_Images_1.png)\
+!![Agree](Rime_Installation Images_1.png)\
 4. Click on the button with 瀏覽/浏览 to select the folder where you want to install the Rime or just skip it to install on default folder\
 5. Click on the button with the word 安裝 to install\
 !![Install](Rime_Installation Images_2.png)\
