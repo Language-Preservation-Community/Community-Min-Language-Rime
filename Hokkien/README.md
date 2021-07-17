@@ -1,38 +1,14 @@
 # Community-Min-Language-Rime
+This Rime is made with Rime Engine and the original schema is made by a github user named a-thok. You can refer to his repo here https://github.com/a-thok/rime-hokkien. However there is never any update later on and I wish to modified to mix with malaysian words and indonesian words as well, thus I just copied and paste the schema and dict files and modified it. I will give anyone access to the repo and made changes to it if they decide to join the discord server and show interest in updating the dictionary. As long as they don't delete previous entry, everything will be good.
 
-# RIME輸入法 - 閩南語輸入方案
-本方案是拼音輸入方案，採用臺灣教育部所設兮[臺灣閩南語羅馬字拼音方案](https://zh.wikipedia.org/wiki/臺灣閩南語羅馬字拼音方案)。  
-詞庫內底有一寡標音毋是標準臺羅，是為著欲兼容無仝所在兮腔口。佇咧實際使用，但使揤標準兮臺羅拼音就會用得。
+# Important
 
-## 使用方法
-猶未完成
+This romanization is just mainly for easier typing, I am not trying to creating a new Romanization standard. These are just mainly for typing fast and is just a little modification from [Tailo](https://zh.wikipedia.org/wiki/臺灣閩南語羅馬字拼音方案) due to other hokkien speaking region has more different vowels.
 
-## 臺羅學習資源
-* [臺羅拼音教學網](http://tailo.moe.edu.tw/)
-* [臺羅拼音方案佮學習網](http://www.ntcu.edu.tw/tailo/sound.htm)
-* [百度貼吧-閩南語吧](http://tieba.baidu.com/f?kw1=%C3%F6%C4%CF%D3%EF&kw=%C3%F6%C4%CF%D3%EF)
+The /ɯ/ sounds are represented with Y like 汝好 /ɤ/ are represented with v /ə/ are represented with eo. 
 
-## 反饋
-對標音抑是用字有任何意見，攏會使提**issue**來做伙參詳，或者是直接提交**pull request**。  
-若汝袂曉用github，嘛會做得發送郵件予我本儂（a-thok[at]outlook.com）。  
-歡迎咱逐个來鬥陣完善本方案，費神。
+Reason for these instead of ir,or,er in Tailo because Hokkien doesn't have any R sounds and I tried to minimize character usage. 
 
-我頭路頂有淡薄仔無閒，凡勢無法度捷捷更新。歹勢！
+/D/ sounds appears in older time E mun 廈門/ Amoy, Philippine Hokkien as well as Hainanese (They are not part of Southern Min Hokkien, but still important sounds to distinguish). 
 
----
-
-本输入方案为拼音输入方案，采用台湾教育部所颁布的[臺灣閩南語羅馬字拼音方案](https://zh.wikipedia.org/wiki/臺灣閩南語羅馬字拼音方案)。  
-词库中有些标音非标准的台罗，这是为了兼容不同地区的腔调。实际使用时，只需要输入标准台罗即可。
-
-## 使用方法
-待完成
-
-## 台罗学习资源
-* [台罗拼音教学网](http://tailo.moe.edu.tw/)
-* [台罗拼音方案及学习网](http://www.ntcu.edu.tw/tailo/sound.htm)
-* [百度贴吧-闽南语吧](http://tieba.baidu.com/f?kw1=%C3%F6%C4%CF%D3%EF&kw=%C3%F6%C4%CF%D3%EF)
-
-## 反馈
-对于标音或者用字有任何意见，可以提交**issue**讨论，或者直接提交**pull request**。  
-如果你不是github用户，也可以发送电子邮件给我本人（a-thok[at]outlook.com）。  
-欢迎大家一起完善本方案，谢谢。
+I also have made adjustment to the keyboard so even if you type C the ts- sounds will still appear. I have seen multiple romanization from mainland but it seems to have multiple version and very confusing since they are not align with IPA. Until I came accross mainlanders that want to have their own schema, then I will made a few. 

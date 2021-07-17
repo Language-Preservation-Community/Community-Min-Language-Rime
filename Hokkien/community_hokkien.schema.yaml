@@ -54,15 +54,20 @@ speller:
   algebra:
     - abbrev/^([ptkbgmlschj]h?).+$/$1/ 
     - derive/^c/ts/
+    - derive/^ts/c/
+    - derive/^d/l/
+    - derive/^l/d/ #philipine 
     - derive/uih/ueh/
     - derive/6/7/
     - derive/Ia/ia/
     - derive/IR/ir/
-    - derive/ir/i/
+    - derive/y/i/
+    - derive/i/ee/ #Malaysia Hokkien
     - derive/ur/u/
     - derive/er([^eptkmng]*)(h?)$/ue$1$2/
     - derive/Er/e/
     - derive/ere/e/
+    - derive/ian/ien/
     - derive/uAinn/uan/
     - derive/uainn/uenn/	#南靖
     - derive/iO/oo/
@@ -77,6 +82,7 @@ speller:
     - derive/uee/ua/
     - derive/ern/in/
     - derive/ere/e/
+    - derive/eO/eo/
     - derive/uI/ui/
     - derive/khIRR/khir/
     - derive/i(ng|k)/e$1/		#漳南
@@ -148,6 +154,7 @@ translator:
     - 'xform ngh; n̍gh'
     - 'xform w u'
     - 'xform y y'
+    - 'xform v v'
     - 'xform c ts'
     - 'xform q h'
 
