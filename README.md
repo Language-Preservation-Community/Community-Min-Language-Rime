@@ -19,6 +19,10 @@ Note: Focus on the word 小狼毫 with the window symbol on the left \
 ![Install](Rime_Installation_Images_3.png)\
 7. Click on the button with 完成 and you are finished!\
 
+## Macs Users Installation Guide
+- Same as above but please download this file *[default.custom.yaml](https://github.com/loaden/rime/blob/master/default.custom.yaml).
+- Put the ~/Library/Rime
+
 ## Importing new dictionaries and schemas\
 1. First download the input schemas from the * [repo](https://github.com/Language-Preservation-Community/Community-Min-Language-Rime).\
 (Press the green button labelled "Code" Then choose Download Zip\
@@ -43,18 +47,6 @@ Note: Focus on the word 小狼毫 with the window symbol on the left \
 11. Another window will pop out and asking what kind of style your keyboard want to display in, just pick whatever you want that you feels nice then click on the button labelled "中" again to start using new dictionaries and schemas\
 ![Download](Rime_Dictionaries_Installation_10.png)\
 
-## To edit the dictionary 
-1. You either get newest edition of the dictionary from the repo or you make the changes yourself to the dict.yamlin the data folder\
-(The main concept you need to know that the changes you made are done to the .dict.yaml files in the data folder where your Rime program is installed).\
-2. After you made the changes to the dict.yaml files (for mine it will be community_hokkien.dict.yaml, and I will just need to copy and paste from the github folder), right click on the button on the bottom right hand corner labelled with "中" again, and press the tab labelled with "重新部署" and the changes you made to the dictionary will be reflected\
-![Refreshing](Rime_Refreshing_Button.png)\
-
-*Remember to test your dictionary first before pushing!*\
-*Remember to copy and paste from previous entry to prevent error*\
-*Try to use notepad++ since this application handles larger number of words than regular notepad*\
-*Sometimes it might be the bug of the application itself and your changes aren't reflected, and you might need to remove the dictionary from the data folder and make sure it uninstalls the dictionary through opening out and put the dictionary back into data folder again"\\
-
-
 ## To start using the IME
 1. Make sure you are in the correct IME which is labelled "Chinese 小狼毫" using Win key + spacebar\
 2. To switch to the desired IME, press Ctrl + ` Button\   
@@ -71,3 +63,20 @@ Note: Focus on the word 小狼毫 with the window symbol on the left \
 6. Open the folder where you cloned to, you can make changes to the dictionary there. Github desktop will be able to detect the changes.\
 7. Once you finish implementing the changes, you will see on github desktop where all the changes are detecked. You need to write a commit saying what words you added then press on commit to main.\
 8. Finally you will see something on Push Origin, press on the button to finally commit to the repo and people able to see!\
+
+## To edit the dictionary 
+1. You either get newest edition of the dictionary from the repo or you make the changes yourself to the dict.yamlin the data folder\
+(The main concept you need to know that the changes you made are done to the .dict.yaml files in the data folder where your Rime program is installed).\
+2. After you made the changes to the dict.yaml files (for mine it will be community_hokkien.dict.yaml, and I will just need to copy and paste from the github folder), right click on the button on the bottom right hand corner labelled with "中" again, and press the tab labelled with "重新部署" and the changes you made to the dictionary will be reflected\
+![Refreshing](Rime_Refreshing_Button.png)\
+
+*Remember to test your dictionary first before pushing!*\
+*Remember to copy and paste from previous entry to prevent error*\
+*Try to use notepad++ since this application handles larger number of words than regular notepad*\
+*Sometimes it might be the bug of the application itself and your changes aren't reflected, and you might need to remove the dictionary from the data folder and make sure it uninstalls the dictionary through opening out and put the dictionary back into data folder again"\\
+
+## Original Authors
+Credit to the original authors who set up the dictionaries and schemas\
+Teochew Authors *[kahaani Tenda Huang](https://kahaani.github.io/dieghv )\ 
+Hokkien Authots *[a-thok](https://github.com/a-thok/rime-hokkien)\
+Fuzhounese Authors *[only3km Hector Sioh ](https://github.com/only3km/ciklinbekin)\  
