@@ -7,6 +7,7 @@ schema:
   name: Hokkien 閩南語
   version: "0.5"
   author:
+    - KuroiRaku
     - 阿托 <a-thok@outlook.com>
   description: |
     閩南語輸入方案
@@ -56,22 +57,28 @@ speller:
     - derive/^c/ts/
     - derive/^ts/c/
     - derive/^d/l/
-    - derive/^l/d/ #philipine 
+    - derive/^l/d/ #philipine and 廈門 
     - derive/uih/ueh/
     - derive/6/7/
     - derive/Ia/ia/
     - derive/IR/ir/
-    - derive/y/i/
-    - derive/i/ee/ #Malaysia Hokkien
+    - derive/IR/y/
+    - derive/ir/y/ # For Easier Typing
+    - derive/o/e/ # Sounds more closer to E than O
+    - derive/oo/o/ # For easier typing 
+    - derive/i/ee/ # Malaysia Hokkien romanization
     - derive/ur/u/
     - derive/er([^eptkmng]*)(h?)$/ue$1$2/
     - derive/Er/e/
     - derive/ere/e/
-    - derive/ian/ien/
+    - derive/iann/ia/ # For easier typing
+    - derive/ian/ien/ # People who always type hokkien instead of Hokkian same goes for other words
     - derive/uAinn/uan/
     - derive/uainn/uenn/	#南靖
     - derive/iO/oo/
     - derive/U/i/
+    - derive/min/min/
+    - derive/mian/mian/
     - derive/aInn/an/
     - derive/aInn/ing/
     - derive/^ngaI/gan/
@@ -79,10 +86,10 @@ speller:
     - derive/^mue/bue/
     - derive/iunn/ionn/	
     - derive/niu/nio/
-    - derive/uee/ua/
+    - derive/ue/ua/
     - derive/ern/in/
     - derive/ere/e/
-    - derive/eO/eo/
+    - derive/er/e/
     - derive/uI/ui/
     - derive/khIRR/khir/
     - derive/i(ng|k)/e$1/		#漳南
