@@ -36,6 +36,8 @@ use_preset_vocabulary: false
 ##  newly added word
 榴莲	liu lian	10
 擘榴莲	peh liu lian
+家婆	ke poo	10
+在勢	tsai si	10
 緣投	eng thau	10
 自由	tsi iu	10
 轉厝	tui tshu	10
@@ -102,9 +104,7 @@ use_preset_vocabulary: false
 拵	tsun	10
 時拵	si tsun	10
 問	mng	10
-過	kv	10
-毋捌聽過	m bat thia kv	10
-毋捌聽過	m bat thiann kv	10
+毋捌聽過	m bat thiann ker	10
 若是	a si	10
 若	a	10
 秤彩	tshin tshai	10
@@ -138,6 +138,9 @@ use_preset_vocabulary: false
 明白	min pek	10
 今朝	kin tiou
 好料	hoo liau	10
+字典	li tian	10
+物件	mng kiann	10
+免客氣	bian khe khi	10
 
 ##	a/ah
 啊	a0

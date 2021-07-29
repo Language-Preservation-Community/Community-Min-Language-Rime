@@ -59,6 +59,8 @@ speller:
     - derive/^d/l/
     - derive/^l/d/ #philipine and 廈門 
     - derive/uih/ueh/
+    - derive/u/oo/ # Malaysian hokkien romanization
+    - derive/iat/iet/ # For easier searching words when you pronunce /iet/
     - derive/6/7/
     - derive/Ia/ia/
     - derive/IR/ir/
