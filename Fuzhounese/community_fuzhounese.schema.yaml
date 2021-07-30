@@ -1,0 +1,120 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: community_fuzhounese
+  name: Fuzhounese 福州話
+  version: "0.1"
+  author:
+    - 大黑 <only3km@gmail.com>
+    - Community
+  description: |
+    Dictionary of the Foochow Dialect 1929
+  dependencies:
+    - luna_pinyin    
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+  - name: simplification
+    states: [ 傳統, 简化 ]
+  - name: extended_charset
+    states: [ 常用, 增廣 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: 'zyxwvutsrqponmlkjihgfedcba;'
+  initials: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - xform/^([a-z]+)([\d\*]+)$/$1/  #無需輸入聲調
+    - derive/uoi$/ue/ # 擬音 杯盃 ue=uoi
+    - derive/uoi$/ui/ # 韻母合併 ui=uoi 杯盃→輝龜
+    - derive/ieu$/iu/ # 韻母合併 iu=ieu 燒嬌→秋周 • [話] iau
+    - derive/ieu$/iau/ # 韻母合併 ua=uai 歪乖→花瓜 • ui=uai 輝龜
+    - derive/uai$/ua/
+    - derive/uai$/ui/ # 漳泉亂 舌齒音聲母+香•橋韻→光•過韻
+    - derive/^([dtnlzc])io/$1uo/
+    - derive/k$/h/ # 入聲合併 h=k
+    - derive/h$/k/
+    - derive/^[nl](.*)$/l$1/ # 鼻邊音模糊 l=n
+    - derive/^[nl](.*)$/n$1/
+    - derive/([aeiouy])ng$/$1n/ # 鼻音模糊 ?n=?ng
+    - derive/^(.+)h$/$1/ # 入聲模糊 ?h=? ?k=?
+    - derive/^(.+)k$/$1/
+    - derive/^c/ch/ # 兼容 平話字 ch→c
+    - derive/^h/f/ # 兼容 f→h
+    - derive/^h/x/ # 兼容 x→h
+    - derive/oi$/oy/ # 兼容 oy=oi
+    - derive/y/v/ # 兼容 v=y
+    - derive/^i([aeou])/y$1/ # 兼容 y?=i?
+    - derive/^i$/yi/ # 兼容 yi=i yu=y yo=io
+    - derive/^y/yu/
+    - derive/io/yo/
+    - derive/^i([aeou])/j$1/ # 兼容 j?=i?
+    - derive/^i$/ji/ # 兼容 ji=i
+    - derive/^y/ju/ # 兼容 ju=y
+    - derive/^u([aeio])/w$1/ # 兼容 w?=u?
+    - derive/^u$/wu/ # 兼容 wu=u
+    - derive/oe/eo/ # 容錯 oe=eo
+    - abbrev/^([a-z]).+$/$1/ # 以首字母爲多字母音節碼的縮寫
+    - abbrev/^(ng).+$/$1/ # 以ng爲首的音節的縮寫
+
+translator:
+  dictionary: community_fuzhounese
+  comment_format: &comment_rules
+
+    # 將聲調顯示成上標
+    - xlit/12345678/¹²³⁴⁵⁶⁷⁸/
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  enable_charset_filter: true
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+  comment_format: *comment_rules
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"
+    email: "^[a-z][-_.0-9a-z]*@.*$"
+    uppercase: "^[A-Z][-_+.'0-9A-Za-z]*$"
+    url: "^(www[.]|https?:|ftp:|mailto:).*$"
+    punct: "^/([A-Z|a-z]*|[0-9]|10)$"
