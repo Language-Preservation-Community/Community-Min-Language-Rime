@@ -7,12 +7,13 @@ schema:
   name: Hokkien 閩南語
   version: "0.5"
   author:
-    - KuroiRaku
     - 阿托 <a-thok@outlook.com>
   description: |
     閩南語輸入方案
     採用「臺灣閩南語羅馬字拼音方案」
     http://www.ntcu.edu.tw/tailo/
+  dependencies:
+    - luna_pinyin
 
 switches:
   - name: ascii_mode
@@ -20,6 +21,8 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ ，。, ，． ]    
   - name: simplification
     states: [ 漢字, 汉字 ]
 
@@ -40,9 +43,8 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
-    - echo_translator
     - punct_translator
-    - r10n_translator
+    - script_translator
     - reverse_lookup_translator
   filters:
     - simplifier
@@ -104,6 +106,7 @@ speller:
 
 translator:
   dictionary: community_hokkien
+  spelling_hints: 5
   preedit_format:
     - 'xform ([aeiouy])(r?m?n*h?g?p?t?k?)([\[/\\\]90\-;]) $1$3$2'
     - 'xform ([aeo])([iueo])([\[/\\\]90\-;]) $1$3$2'
@@ -166,7 +169,12 @@ translator:
     - 'xform v v'
     - 'xform c ts'
     - 'xform q h'
+  comment_format: &comment_rules
+    # 將鼻化符號顯示成上標
+    - xform/nn/ⁿ$1/
 
+    # 將聲調顯示成上標
+    - xlit/12345678/¹²³⁴⁵⁶⁷⁸/
 
 reverse_lookup:
   dictionary: luna_pinyin
@@ -174,7 +182,8 @@ reverse_lookup:
   tips: 〔拼音〕
   preedit_format:
     - xform/([nljqxy])v/$1ü/
-
+  comment_format: *comment_rules
+  
 punctuator:
   import_preset: default
 

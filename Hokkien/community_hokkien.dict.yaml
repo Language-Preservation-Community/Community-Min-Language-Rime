@@ -34,6 +34,9 @@ sort: by_weight
 use_preset_vocabulary: false
 ...
 ##  newly added word
+尻川	kha tshng	10
+區	Khu	10
+臺語	tai gi	10
 榴莲	liu lian	10
 擘榴莲	peh liu lian
 家婆	ke poo	10
@@ -141,6 +144,7 @@ use_preset_vocabulary: false
 字典	li tian	10
 物件	mng kiann	10
 免客氣	bian khe khi	10
+
 
 ##	a/ah
 啊	a0
@@ -27325,6 +27329,7 @@ use_preset_vocabulary: false
 終身	tsiong sin
 終點	tsiong tiam
 終於	tsiong ir
+終於	tsiong i
 終止	tsiong tsi
 終結	tsiong kiat
 終端	tsiong tuan
