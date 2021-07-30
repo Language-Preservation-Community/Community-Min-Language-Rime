@@ -90,6 +90,7 @@ speller:
 
 translator:
   dictionary: community_fuzhounese
+  spelling_hints: 5
   comment_format: &comment_rules
 
     # 將聲調顯示成上標
