@@ -34,8 +34,24 @@ sort: by_weight
 use_preset_vocabulary: false
 ...
 ##  newly added word
+善	sian3	10 #The words for being tired'
+善	sian7	10 
+𤺪	sian7	10  #Alternative word
+開氣	khui khi	10
+箸	ti2	10
+頭前	thau tshinn	10
+鼻橐	phinn lok	10
+應承	ing sing	10
+提醒	thê-tshínn
+頷頸	am kun	10
+頷頸	am un	10 # KL Hokkien
+指甲	tsńg-kah	10
+跤骨	kha kut	10
+番椒	huan tsio	10
+番薯	han tsu	10
+大箍呆	tua khoo tai	10
 尻川	kha tshng	10
-區	Khu	10
+區	khu	10
 臺語	tai gi	10
 榴莲	liu lian	10
 擘榴莲	peh liu lian
@@ -69,7 +85,7 @@ use_preset_vocabulary: false
 阿恬	a tiam	10
 逐家好	tak ke he	10
 虼蚻	ka tsuah	10
-虼蚻	ka tsak	10
+虼蚻	ka tsak	10 # KL Hokkien
 攢	tshuan	10
 攢好	tshuan ho	10
 攢好了	tshuan ho liau	10
@@ -91,8 +107,8 @@ use_preset_vocabulary: false
 濟	tsue	10
 真濟	tsin tsue	10
 閣	ko
-閣未好	ko be ho	10
-閣未好	koh be ho	10
+閣未好	ko ber ho	10
+閣未好	koh ber ho	10
 起嬲	khi siau	10
 揣	tshe	10
 趕緊揣	ka kin tshe	10
@@ -126,7 +142,9 @@ use_preset_vocabulary: false
 一下	tsit he	10
 問題	mun tue	10
 問	mun	10
-無變	bo pian	10
+輦 lian2
+無變輦	bo6 pian3 lian2	10
+無變	bo7 pian3	10
 白讀	peh thak	10
 莫	mai	10
 亂亂	luan luan	10
@@ -144,7 +162,7 @@ use_preset_vocabulary: false
 字典	li tian	10
 物件	mng kiann	10
 免客氣	bian khe khi	10
-
+上	siong7	10
 
 ##	a/ah
 啊	a0
@@ -2545,13 +2563,13 @@ use_preset_vocabulary: false
 冇	phann3
 怕	phann3
 奅	phann7
-嘛	ma0
 馬	ma2	5%
 媽	ma2	10
 嬤	ma2
 瑪	ma2
 碼	ma2	0%
 螞	ma2
+嘛	ma3
 媽	ma5
 嘛	ma6
 罵	ma7	10
