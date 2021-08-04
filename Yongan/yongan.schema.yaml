@@ -54,7 +54,7 @@ speller:
   alphabet: 'zyxwvutsrqponmlkjihgfedcba;'
   initials: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
-	
+
 translator:
   dictionary: yongan
   spelling_hints: 5
