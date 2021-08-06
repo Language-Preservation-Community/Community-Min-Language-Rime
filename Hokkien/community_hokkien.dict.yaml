@@ -34,9 +34,20 @@ sort: by_weight
 use_preset_vocabulary: false
 ...
 ##  newly added word
+技術	gi1 tsut8	10
+假期	ka2 khi5	10
+相𫝛	sio1 siang5	10
+相𫝛	sann1 siang5	10
+𤗏鑿 pue1 tshak8	10
+管鑿 kng2 tshak8	10
+扁鑿 pinn2 tshak8	10
 善	sian3	10 #The words for being tired'
-善	sian7	10 
+善	sian7	10
 𤺪	sian7	10  #Alternative word
+乜	mi6	10
+啥乜	siann1 mi5	10
+省乜	siann1 mi5	10
+癀起	hong5 khi2	10
 開氣	khui khi	10
 箸	ti2	10
 頭前	thau tshinn	10
@@ -130,9 +141,9 @@ use_preset_vocabulary: false
 秤彩食	tshin tshai tsiak	10
 食	tsiak	10
 啥	sia	10
-啥咪	sia mi	10
-啥咪物件	sia mi mng kiann	10
-啥咪物件	sia mi mng kia	10
+啥物	sia mi	10
+啥物物件	sia mi mng kiann	10
+啥物物件	sia mi mng kia	10
 肉骨茶	ba kut te	10
 肉骨茶	bah kut teh	10
 外口	ua khau	10
@@ -892,7 +903,7 @@ use_preset_vocabulary: false
 吵衰	tsa sue
 吵家鬧宅	tsha ke la theh
 炒菜	tsha tshai
-炒麵	tsa mi
+炒麵	tsha mi
 插腰	tshah io
 插花	tshah hue
 插班	tshah pan
