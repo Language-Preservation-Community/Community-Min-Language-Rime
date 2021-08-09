@@ -35,6 +35,14 @@ use_preset_vocabulary: false
 ...
 ##  newly added word
 毋愛	m7 mai3	10
+癒	tsuah8	10
+癒	tsah8	10 # Malaysia
+甲晏	kah4 uann7	10
+癒伯	tsah8 peh4	10 # Malaysia
+干單有	kan1 tann1 u7	10
+續落來	sua3 loh8 lai5	10
+續	sua3
+飯桶	pun5 thong3	10
 技術	ki1 tsut8	10
 假期	ka2 khi5	10
 相𫝛	sio1 siang5	10
@@ -42,6 +50,7 @@ use_preset_vocabulary: false
 𤗏鑿 pue1 tshak8	10
 管鑿 kng2 tshak8	10
 扁鑿 pinn2 tshak8	10
+飯	png7	10
 善	sian3	10 #The words for being tired'
 善	sian7	10
 𤺪	sian7	10  #Alternative word
@@ -113,11 +122,12 @@ use_preset_vocabulary: false
 攢好	tshuan ho	10
 今旦日	kin na jit	10
 今旦日	kin na lit	10
-明仔日	mia tsai	10
+明仔载	mia tsai	10
 有時間無	u si kan bo	10
 話	ue	10
 濟	tsue	10
 真濟	tsin tsue	10
+野濟	a1 tsue	10
 閣	ko
 閣未好	ko ber ho	10
 閣未好	koh ber ho	10
