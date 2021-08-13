@@ -34,7 +34,41 @@ sort: by_weight
 use_preset_vocabulary: false
 ...
 ##  newly added word
+唌你捩來	siann5 li2 leh4 lai5	10 # KL hokkien ancestry An Khue
+玩	guan2	10
+玩	uan2	10
+偌濟	lua7 tsue6	10
+偌	lua7	10
+恁儂	lin2 lang6	10
+阮儂	guan2 lang6	10
+𪜶儂	in1 lang6	10
+人	lang6	10
+野𤺪	ia2 sian7	10
+⻊百	peh4 #Alternative word for climb in China
+前摷後摷	tsing5 tshiau1 au6 tshiau1
+酒窟	tsiu2 khut1
+窟 khut1
+前	tsing5
+摷	tshiau1
+事誌	tai7 tsi3	5
+事	tai7
+䞟懸䞟下 peh1 kuan5 peh1 ki #Penang Hokkien weird one
+繳袂起	kiau2 be6 khi2
+調羹	thau5 kiong1 #Penang Hokkien means spoon 
+遊水	iu5 tsui2	10
 毋愛	m7 mai3	10
+訓讀	hun3 thak8	10
+軂	lio7	5 # meaning Tall
+軂	liu7	5 # malaysia Hokkien possible usage
+飆	pio5	5
+兩	lng6	10
+番薯	huan1 tsu5 	10 # Another Reading
+番薯	han1 tsir5 	10 # Another Reading
+㧣車	tu1 tshia1
+趕緊	ka2 kin2
+捒車	sak4 tshia1
+兩	no7	10
+你	li2
 囝仔	gin2 a2	10 # Alternative writing for gin a
 子	kiann2	10 # Alternative writing for kiann
 部分	poo1 hun7	10
@@ -56,7 +90,7 @@ use_preset_vocabulary: false
 飯	png7	10
 善	sian3	10 #The words for being tired'
 善	sian7	10
-𤺪	sian7	10  #Alternative word
+𤺪	sian7	10  #Alternative word in tsuan tsiu dictionary
 乜	mi6	10
 啥乜	siann1 mi5	10
 省乜	siann1 mi5	10
@@ -106,7 +140,7 @@ use_preset_vocabulary: false
 今日	kin jit	10
 逐家好	tak ke ho	10
 逐家	tai ke	10
-阿恬	a tiam	10
+野恬	a2 tiam6	10
 逐家好	tak ke he	10
 虼蚻	ka tsuah	10
 虼蚻	ka tsak	10 # KL Hokkien
@@ -121,14 +155,12 @@ use_preset_vocabulary: false
 昨暝	tsa mi	10
 昨暝	tsa me	10
 膎汁	ke tsiap
-攢	tshuan	10
-攢好	tshuan ho	10
 今旦日	kin na jit	10
 今旦日	kin na lit	10
 明仔载	mia tsai	10
 有時間無	u si kan bo	10
 話	ue	10
-濟	tsue	10
+濟	tsue6	10
 真濟	tsin tsue	10
 野濟	a1 tsue	10
 閣	ko

@@ -21,7 +21,18 @@ Note: Focus on the word 小狼毫 with the window symbol on the left \
 
 ## Macs Users Installation Guide
 - Same as above but please download this file *[default.custom.yaml](https://github.com/loaden/rime/blob/master/default.custom.yaml).
-- Put the ~/Library/Rime
+- Modify the default.custom.yaml to include the .schema files you need
+- Put it in the ~/Library/Rime
+
+## iPhone Installation Guide
+1. install an app called iRime
+2.  Go to this website https://github.com/Language-Preservation-Community/Community-Min-Language-Rime and download the Hokkien.schema and hokkien.dict
+3. Open the iRime app, press on "PC Pass iRime"
+4. There will be a number that shows on the screen, enter the number on your PC browser, it will then shows up an interface that allows you to upload files
+5. Press on the SharedSupport Folder, then upload the Hokkien.schema and hokkien.dict
+6. download the default.yaml and open the default.yaml with any texteditor, preferably notepad++
+7. add a new schema named community_hokkien in the schema_list using the same format as previous.
+8. Go to settings -> keyboard -> allow third party keyboard, select iRime then you can start using
 
 ## Importing new dictionaries and schemas\
 1. First download the input schemas from the * [repo](https://github.com/Language-Preservation-Community/Community-Min-Language-Rime).\
