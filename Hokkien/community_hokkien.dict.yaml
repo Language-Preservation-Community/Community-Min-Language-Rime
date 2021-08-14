@@ -34,6 +34,11 @@ sort: by_weight
 use_preset_vocabulary: false
 ...
 ##  newly added word
+袂曉緊	be2 hiau2 kin2	10
+這个	tsit4 ke5	10
+下个	e6 ke5	10
+个	ke5	5
+扞車	huann3 tshia3	10 # Drive car in Malaysia, PH Hokkien 
 唌你捩來	siann5 li2 leh4 lai5	10 # KL hokkien ancestry An Khue
 玩	guan2	10
 玩	uan2	10
@@ -32734,8 +32739,9 @@ use_preset_vocabulary: false
 洛邑	lok ip
 咸陽	ham Iang
 長安	tIang an
+長安	tiong an
 建業	kian giap
-建康	kian khong
+建康	kian3 khong1
 大興	tai hing
 臨安	lim an
 皇都	hong too
@@ -33116,9 +33122,11 @@ use_preset_vocabulary: false
 巴蜀	pa siok
 天府之國	thian hu tsi kok
 廣東	kuInn tang
+廣東	kng2 tang1
 廣東省	kuInn tang sing
 廣州	kuInn tsiu
 廣府	kuInn hu
+廣府	kong2 hu2
 深圳	tshim tsun
 珠海	tsu hai
 東莞	tang kuan
