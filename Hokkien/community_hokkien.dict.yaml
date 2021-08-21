@@ -36,6 +36,9 @@ sort: by_weight
 use_preset_vocabulary: false
 ...
 ##  newly added word
+的	e5	10
+汝的	lir2 e5	10
+我的	ua2 e5	10
 干焦	kan1 na1	10
 即久	tsiah4 ku2	10
 何物	ha1 mih4	10
