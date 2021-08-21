@@ -25,7 +25,9 @@
 #
 # * 臺灣教育部 - 台灣閩南語常用詞辭典
 #   http://twblg.dict.edu.tw/holodict_new/default.jsp
-#
+# 
+# * 臺灣教育部 - 台灣閩南語常用詞辭典
+#   http://twblg.dict.edu.tw/holodict_new/default.jsp
 
 ---
 name: community_hokkien
@@ -34,6 +36,13 @@ sort: by_weight
 use_preset_vocabulary: false
 ...
 ##  newly added word
+干焦	kan1 na1	10
+即久	tsiah4 ku2	10
+何物	ha1 mih4	10
+何乜	ha1 mi5	10
+雞卵糕	kue1 lng6 ko1
+卵	lng6	10
+揀	kuinn2	10
 袂曉緊	be2 hiau2 kin2	10
 這个	tsit4 ke5	10
 下个	e6 ke5	10
