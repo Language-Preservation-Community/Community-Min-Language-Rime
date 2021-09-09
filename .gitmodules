@@ -1,3 +1,6 @@
 [submodule "Teochew-Rime"]
 	path = Teochew-Rime
 	url = https://github.com/Language-Preservation-Community/Teochew-Rime
+[submodule "Fuzhounese-IME"]
+	path = Fuzhounese-IME
+	url = https://github.com/Language-Preservation-Community/Fuzhounese-IME
