@@ -36,9 +36,52 @@ sort: by_weight
 use_preset_vocabulary: false
 ...
 ##  newly added word
+面巾	bin7 kun1	2
+巾	kun1
+𥍉	nih4
+𥍉目	nih4 bak8
+之	e5	10 #Appears in tsiang tsiu dutch dictionary
+餸配	sang7 phue3
+餸	sang7
+袂憶	be7 it4
+袂憶	be7 ik4
+線頂	suann3 ting2
+肉乾	bah4 kuann1
+好是	ho2 si6 #PH Hokkien Contraction of 好維是
+惱	lau5
+𠢕吵	gau5 tsha2
+挩注	thuah4 tu3
+品評	phin2 phing5	10 #Criticize
+永相拄	ing2 sann1 tu2
+鬥相共	tau3 sann1 kang7
+霜櫥	sng1 tu5	10
+無偏	bo5 phinn1	10
+穿	tshng1	10
+簡譜	kan2 pho2
+譜	pho2
+真媠	tsin1 sui2
+今旦日	kiann1 lit8	10
+日	lit8
+厝頭	tshu3 thau5
+後頭	au6 thau5
+野	ah2	5
+沙茶	sa1 te5	5
+詞	sir5	5
+可能	kho2 lng5	5
+無可能	bo5 kho2 lng5	5
+喙罨	tshui2 am1	5
+口罩	khau2 ta3	5
+攬儂	lam2 lang6	5
+攬我	lam2 ua2	5
+攬我	lam2 ua2	5
+攬汝	lam2 lir2	5
+攬汝	lam2 lir2	5
+跤兜	kha1 tau1	5
+敢哪志	kan3 na7 tsi3	10
 的	e5	10
 汝的	lir2 e5	10
 我的	ua2 e5	10
+捍車	huann6 tshia1	10
 干焦	kan1 na1	10
 即久	tsiah4 ku2	10
 何物	ha1 mih4	10
@@ -224,7 +267,8 @@ use_preset_vocabulary: false
 亂亂	luan luan	10
 莫亂亂	mai luan luan	10
 莫亂亂講	mai luan luan kong	10
-佇	ti	10
+佇	ti7	10
+佇	ti6	10
 佇佗落	ti to lok	10
 佇佗位	ti to ui	10
 廈門	e muinn	10
@@ -10988,7 +11032,7 @@ use_preset_vocabulary: false
 麥	beh8
 脈	beh8
 硩	teh4
-茶	te5
+茶	te5	10
 徹	theh4	5%
 䖳	the7
 宅	theh8
