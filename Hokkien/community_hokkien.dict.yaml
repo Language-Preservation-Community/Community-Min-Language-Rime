@@ -36,6 +36,23 @@ sort: by_weight
 use_preset_vocabulary: false
 ...
 ##  newly added word
+螻	kau2
+殄	tseng2
+拄才	tu1 tsiah8	5
+着	tioh8	5 #Alternative Writing for 就 Jpn-Tw Dict tsit ma
+此滿	tsit4 mua2	2 #Alternative Writing Jpn-Tw Dict tsit ma
+闇昏	am3 hng1
+這爿	tsit4 ping5
+間	kin1
+此	tsit4	2 #Alternative Writing Jpn-Tw Dict
+僶	bin2
+僶雋	mi2 tsinn6 #Hokkien word to mean focus
+邂	hue5 #Alternative for Hue Hue 
+邂邂	hue5 hue5
+才	tsiah8	2 #Ateji
+揤	jih8	2
+揤	lih8	2
+嚴重	iam tang	2
 面巾	bin7 kun1	2
 巾	kun1
 𥍉	nih4
@@ -2968,9 +2985,9 @@ use_preset_vocabulary: false
 怎樣	tsainn iunn
 怎樣	tsuann iunn
 ##	aInn/aInnh
-閒	aInn5
-反	paInn2
-爿	paInn5
+閒	ainn5
+反	painn2
+爿	painn5
 店	taInn3	10
 橂	taInn7
 蓮	naI5	1%
@@ -11385,7 +11402,7 @@ use_preset_vocabulary: false
 冊袋	tsheh tEr
 冊櫥	tsheh tu
 冊櫃	tsheh kui
-冊店
+冊店	tsheh4 tiam3
 冊皮	tsheh pher
 紗布	se poo
 紗窗	se thang
@@ -11887,6 +11904,7 @@ use_preset_vocabulary: false
 瞪	thenn5
 呢	neh0
 奶	ne1
+奶	lng1	#泉
 奶	lin1	#泉
 奶	ling1	#漳
 呢	ne1
@@ -22154,6 +22172,7 @@ use_preset_vocabulary: false
 迄	gert4
 訖	gert4
 銀	gern5
+銀	gin5
 睨	gern5
 齦	gern5
 鄞	gern5
@@ -23947,7 +23966,7 @@ use_preset_vocabulary: false
 暴行	poO hing
 暴動	po tong
 暴動	poO tong
-暴殄天物
+暴殄天物	po7 tseng2 thian1 but4
 薄薄	poh poh
 薄紙	poh tsua
 薄禮	poh le
