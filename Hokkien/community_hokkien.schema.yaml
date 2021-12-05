@@ -64,7 +64,6 @@ speller:
     - derive/^d/l/
     - derive/^l/d/ #philipine and 廈門 
     - derive/uih/ueh/
-    - derive/u/oo/ # Malaysian hokkien romanization
     - derive/iat/iet/ # For easier searching words since people pronunce /iet/
     - derive/iap/iep/ # For easier searching words since people pronunce /iep/
     - derive/6/7/
@@ -76,6 +75,7 @@ speller:
     - derive/ir/y/ # For Easier Typing
     - derive/oo/o/ # For easier typing 
     - derive/i/ee/ # Malaysia Hokkien romanization
+    - derive/ik/iak/ # Philippine + Tsin Kang + tsuan tsiu have iak for ik sounds
     - derive/ur/u/
     - derive/er([^eptkmng]*)(h?)$/ue$1$2/
     - derive/Er/e/
@@ -92,12 +92,13 @@ speller:
     - derive/aInn/ing/
     - derive/^ngaI/gan/
     - derive/^ngaI/ging/
-    - derive/^mue/bue/
+    - derive/^m/b/ #The m is mb or b or m depending on dialects
     - derive/iunn/ionn/	
     - derive/niu/nio/
     - derive/ue/ua/
     - derive/ern/en/
     - derive/er/e/
+    - derive/ing/eng/
     - derive/uI/ui/
     - derive/khIRR/khir/
     - derive/i(ng|k)/e$1/		#漳南
