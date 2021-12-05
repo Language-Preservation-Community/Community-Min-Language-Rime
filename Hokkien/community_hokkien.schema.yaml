@@ -10,6 +10,7 @@ schema:
     - 阿托 <a-thok@outlook.com>
     - KuroiRaku
   description: |
+    Uses Tailo
     閩南語輸入方案
     採用「臺灣閩南語羅馬字拼音方案」
     http://www.ntcu.edu.tw/tailo/
@@ -59,6 +60,7 @@ speller:
     - abbrev/^([ptkbgmlschj]h?).+$/$1/ 
     - derive/^c/ts/
     - derive/^ts/c/
+    - derive/^ts/z/
     - derive/^d/l/
     - derive/^l/d/ #philipine and 廈門 
     - derive/uih/ueh/
@@ -68,6 +70,8 @@ speller:
     - derive/6/7/
     - derive/Ia/ia/
     - derive/IR/ir/
+    - derive/IR/i/
+    - derive/IR/u/
     - derive/IR/y/
     - derive/ir/y/ # For Easier Typing
     - derive/oo/o/ # For easier typing 
@@ -82,6 +86,7 @@ speller:
     - derive/uainn/uenn/	#南靖
     - derive/min/min/
     - derive/mi/mi/
+    - derive/mian/mien/
     - derive/mian/mian/
     - derive/aInn/an/
     - derive/aInn/ing/
@@ -96,7 +101,6 @@ speller:
     - derive/uI/ui/
     - derive/khIRR/khir/
     - derive/i(ng|k)/e$1/		#漳南
-    - derive/i(ng|k)/io$1/		#漳南
     - derive/oo/ou/		#漳南
     - derive/^([^eur]*)e(\d?)$/$1ei$2/		#漳南
     - derive/^([^eur]*)e(\d?)$/$1iei$2/		#漳浦
@@ -200,9 +204,9 @@ recognizer:
 style:
   display_tray_icon: false
   font_face: "Microsoft Jhenghei"
-  font_point: 12
+  font_point: 16
   fullscreen: false
-  horizontal: true
+  horizontal: false
   inline_preedit: false
   layout:
     border_width: 3
