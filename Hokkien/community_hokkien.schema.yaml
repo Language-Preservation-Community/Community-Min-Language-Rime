@@ -10,7 +10,8 @@ schema:
     - 阿托 <a-thok@outlook.com>
     - KuroiRaku
   description: |
-    Uses Tailo
+    This keyboard is meant for every users
+    This keyboard uses Tailo
     閩南語輸入方案
     採用「臺灣閩南語羅馬字拼音方案」
     http://www.ntcu.edu.tw/tailo/
@@ -79,7 +80,9 @@ speller:
     - derive/ur/u/
     - derive/er([^eptkmng]*)(h?)$/ue$1$2/
     - derive/Er/e/
+    - derive/Er/ue/
     - derive/ere/ue/
+    - derive/ere/e/
     - derive/iann/ia/ # For easier typing
     - derive/ian/ien/ # People who always type hokkien instead of Hokkian same goes for other words
     - derive/uAinn/uan/
@@ -90,6 +93,7 @@ speller:
     - derive/mian/mian/
     - derive/aInn/an/
     - derive/aInn/ing/
+    - derive/Iang/iong/
     - derive/^ngaI/gan/
     - derive/^ngaI/ging/
     - derive/^m/b/ #The m is mb or b or m depending on dialects
@@ -204,7 +208,7 @@ recognizer:
 
 style:
   display_tray_icon: false
-  font_face: "Microsoft Jhenghei"
+  font_face: "Microsoft JhengHei UI"
   font_point: 16
   fullscreen: false
   horizontal: false

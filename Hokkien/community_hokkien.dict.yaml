@@ -36,6 +36,13 @@ sort: by_weight
 use_preset_vocabulary: false
 ...
 ##  newly added word
+##  once the dicionary are more complete, we can rearrange these to respective location
+雷州	lui5 tsiu1	#luichew
+𣍐	bere6	#Alternative character for be sai 
+遘	kau3	#本字 for Kau to reach
+遘了未	kau3 liau2 ber7	#本字 for Kau to reach
+𬦰	peh4	#the real character for climbing mounting, but not displaying
+𬦰山	peh4 suann1	#the real character for climbing mounting, but not displaying
 𫝛	siang5	#Just single word for Siang
 徛鵝	khia6 go5	#meaning penguin
 開起	khui1 khi2	#Alternative writing for start (ankhue ancestry)
@@ -94,7 +101,7 @@ use_preset_vocabulary: false
 無可能	bo5 kho2 lng5	5
 喙罨	tshui2 am1	5
 口罩	khau2 ta3	5
-攬儂	lam2 lang6	5
+攬儂	lam2 lang5	5
 攬我	lam2 ua2	5
 攬汝	lam2 lir2	5
 跤兜	kha1 tau1	5
@@ -120,12 +127,12 @@ use_preset_vocabulary: false
 玩	uan2	10
 偌濟	lua7 tsue6	10
 偌	lua7	10
-恁儂	lin2 lang6	10
-阮儂	guan2 lang6	10
-𪜶儂	in1 lang6	10
-人	lang6	10
+恁儂	lin2 lang5	10
+阮儂	guan2 lang5	10
+𪜶儂	in1 lang5	10
+人	lang5	10
 野𤺪	ia2 sian7	10
-⻊百	peh4 #Alternative word for climb in China
+⻊百	peh4	#Alternative word for climb in China
 前摷後摷	tsing5 tshiau1 au6 tshiau1
 酒窟	tsiu2 khut1
 窟 khut1
@@ -169,9 +176,6 @@ use_preset_vocabulary: false
 管鑿 kng2 tshak8	10
 扁鑿 pinn2 tshak8	10
 飯	png7	10
-善	sian3	10 #The words for being tired'
-善	sian7	10
-𤺪	sian7	10  #Alternative word in tsuan tsiu dictionary
 乜	mi6	10
 啥乜	siann1 mi5	10
 省乜	siann1 mi5	10
@@ -210,25 +214,28 @@ use_preset_vocabulary: false
 無𫝛	bo siang	10
 無𫝛款	bo siang khuan	10
 按怎	an tsua	10
-袂曉	be6 hiau2	10
-袂爽	be6 song2	10
-袂使	be6 sai2	10
-淙浴	tsang ik	10
-紹介	siu kai	10
+袂曉	be6 hiau2	10	
+袂爽	be6 song2	10	
+袂使	be6 sai2	10	
+淙浴	tsang5 ik4	10	
+紹介	siau7 kai3	10	#Used in taiwan
 書	sio	10
-汝好	lir ho	10
-我	ua	10
+汝好	lir2 ho2	10
+汝好	li2 ho2	10
+汝好	lu2 ho2	10
+汝歹	lir2 phainn2	10
+我	ua2	10
 今日	kin jit	10
 逐家好	tak ke ho	10
 逐家	tai ke	10
 野恬	ia2 tiam6	10
 逐家好	tak ke he	10
-虼蚻	ka tsuah	10
-虼蚻	ka tsak	10 # KL Hokkien
+虼蚻	ka1 tsuah8	10
+虼蚻	ka1 tsak8	10	# KL Hokkien
 攢	tshuan	10
-攢好	tshuan ho	10
+攢好	tshuan ho	10	#Meaning prepared
 攢好了	tshuan ho liau	10
-趕緊食	ka kin tsia	10
+趕緊食	kuann2 kin2 tsiah8	10
 暗暝	am3 mi	10
 暗暝	am3 me	10
 暗暝	am3 bi	10
@@ -254,7 +261,7 @@ use_preset_vocabulary: false
 抑	iah4	10
 房	pang	10
 房間	pang kin	10
-客儂	khe lang	10
+客儂	kheh4 lang6	10
 亦是	ia si	10
 拵	tsun	10
 時拵	si tsun	10
@@ -262,9 +269,9 @@ use_preset_vocabulary: false
 毋捌聽過	m bat thiann ker	10
 若是	a si	10
 若	a	10
-秤彩	tshin tshai	10
-秤彩食	tshin tshai tsiak	10
-食	tsiak	10
+凊彩	tshin3 tshai2	10
+凊彩食	tshin3 tshai2 tsiah8	10
+食	tsiah8	10
 啥	sia	10
 啥物	sia mi	10
 啥物物件	sia mi mng kiann	10
@@ -292,16 +299,19 @@ use_preset_vocabulary: false
 佇佗位	ti to ui	10
 廈門	e muinn	10
 少年	sau lian
-明	min
+明	min	#An khue speaking M
 明白	min peh	10
 今朝	kin tiou
 好料	hoo liau	10
 字典	li tian	10
-物件	mngh kiann	10
-免客氣	bian khe khi	10
+物件	mngh8 kiann6	10
+免客氣	bian2 kheh4 khi3	10
 上	siong7	10
 𫝛款	siang5 khuan2	10
-床	tshuang5	10
+床	tshuang5	10	#bunthak 文讀
+天光	thinn1 kng1	10
+光	kng1	10
+光	kuang1	10	#bunthak 文讀
 
 ##	a/ah
 啊	a0
@@ -894,7 +904,7 @@ use_preset_vocabulary: false
 尻川縫	kha tshuInn phang
 尻川後	kha tshuInn au
 尻川䫌	kha tshuInn phue
-尻川爿	kha tshng paInn
+尻川爿	kha tshng paInn5
 奇數	khia soo
 奇數	kha soo
 巧物	kha2 mngh8
@@ -1914,7 +1924,7 @@ use_preset_vocabulary: false
 師兮	sai e
 司奶	sai nai
 西方	sai hng
-西爿	sai paInn
+西爿	sai paInn5
 西區
 西角	sai kak
 西南	sai lam
@@ -4855,11 +4865,11 @@ use_preset_vocabulary: false
 墨汁
 墨斗	bak tau
 墨斗仔	bak tau a
-東方	tang hng
-東爿	tang paInn
-東區	tang khU
-東部	tang poo
-東北	tang pak
+東方	tang1 hng
+東爿	tang1 paInn
+東區	tang1 khU
+東部	tang1 poo
+東北	tang1 pak
 東北風	tang pak huang
 東北風	tang pak hong
 東南	tang lam
@@ -20427,7 +20437,6 @@ use_preset_vocabulary: false
 貯藏	thir tsong
 儲蓄	thir thiok
 儲君	thir kun
-汝好	lIR ho
 汝做汝
 女性	lir sing
 女性	lu sing	#俗
@@ -21889,7 +21898,7 @@ use_preset_vocabulary: false
 袂做得	bere tsue tit
 袂做	bere tso
 袂做得	bere tso tit
-袂使	bere sai
+袂使	bere6 sai2
 袂用	bere ing
 袂用得	bere ing tit
 袂出得	bere tshut tit
@@ -32556,7 +32565,7 @@ use_preset_vocabulary: false
 腸仔瘍	tng a siunn
 腸病毒	tng penn tok
 唐山	tng suann
-唐儂	tng lang
+唐儂	tng5 lang5
 唐儂街	tng lang kere
 撞著	tng tioh
 湯匙	thng si
@@ -32609,7 +32618,7 @@ use_preset_vocabulary: false
 糖黏黏	thng liam liam
 碭光	thng kuInn
 兩个
-兩爿
+兩爿	nng6 ping5
 兩百
 兩千	nng tshaInn
 兩千	noo tshaInn
