@@ -37,6 +37,10 @@ use_preset_vocabulary: false
 ...
 ##  newly added word
 ##  once the dicionary are more complete, we can rearrange these to respective location
+即	tsiah8	#Correct Characters
+赫	hiah4	#Definitely the correct words for hiah tsue, meaning very
+赫濟	hiah4 tsue6
+外	guai7	#bunthak
 雷州	lui5 tsiu1	#luichew
 𣍐	bere6	#Alternative character for be sai 
 遘	kau3	#本字 for Kau to reach
@@ -289,7 +293,7 @@ use_preset_vocabulary: false
 無變輦	bo6 pian3 lian2	10
 無變	bo7 pian3	10
 白讀	peh thak	10
-莫	mai	10
+莫	mai3	10
 亂亂	luan luan	10
 莫亂亂	mai luan luan	10
 莫亂亂講	mai luan luan kong	10
@@ -312,6 +316,128 @@ use_preset_vocabulary: false
 天光	thinn1 kng1	10
 光	kng1	10
 光	kuang1	10	#bunthak 文讀
+
+## For Typing tones etc, a very basic
+a	a1
+á	a2
+à	a3
+a	a4
+â	a5
+ǎ	a6
+ā	a7
+a̍	a8
+ă	a9
+e	e1
+é	e2
+è	e3
+e	e4
+ê	e5
+ĕ	e6
+ē	e7
+e̍	e8
+ĕ	e9
+o͘	oo1
+ó͘	oo2
+ò͘	oo3
+o͘	oo4
+ô͘	oo5
+ŏ͘	oo6
+ō͘	oo7
+o̍͘	oo8
+ŏ͘	oo9
+o	o1
+ó	o2
+ò	o3
+o	o4
+ô	o5
+ŏ	o6
+ō	o7
+o̍	o8
+ŏ	o9
+i	i1
+í	i2
+ì	i3
+i	i4
+î	i5
+ĭ	i6
+ī	i7
+i̍	i8
+ĭ	i9
+u	u1
+ú	u2
+ù	u3
+u	u4
+û	u5
+ŭ	u6
+ū	u7
+u̍	u8
+ŭ	u9
+ng	ng1
+ńg	ng2
+ǹg	ng3
+ng	ng4
+n̂g	ng5
+n̆g	ng6
+n̄g	ng7
+n̍g	ng8
+n̆g	ng9
+m	m1
+ḿ	m2
+m̀	m3
+m	m4
+m̂	m5
+m̆	m6
+m̄	m7
+m̍	m8
+m̆	m9
+
+aⁿ	ann1
+áⁿ	ann2
+àⁿ	ann3
+aⁿ	ann4
+âⁿ	ann5
+ăⁿ	ann6
+āⁿ	ann7
+a̍ⁿ	ann8
+ăⁿ	ann9
+iⁿ	inn1
+íⁿ	inn2
+ìⁿ	inn3
+iⁿ	inn4
+îⁿ	inn5
+ĭⁿ	inn6
+īⁿ	inn7
+i̍ⁿ	inn8
+ĭⁿ	inn9
+uⁿ	unn1
+úⁿ	unn2
+ùⁿ	unn3
+uⁿ	unn4
+ûⁿ	unn5
+ŭⁿ	unn6
+ūⁿ	unn7
+u̍ⁿ	unn8
+ŭⁿ	unn9
+oⁿ	onn1
+óⁿ	onn2
+òⁿ	onn3
+oⁿ	onn4
+ôⁿ	onn5
+ōⁿ	onn7
+ŏⁿ	onn6
+o̍ⁿ	onn8
+ŏⁿ	onn9
+eⁿ	enn1
+Eⁿ	Enn1
+éⁿ	enn2
+èⁿ	enn3
+Èⁿ	Enn3
+eⁿ	enn4
+êⁿ	enn5
+ĕⁿ	enn6
+ēⁿ	enn7
+e̍ⁿ	enn8
+ĕⁿ	enn9
 
 ##	a/ah
 啊	a0
@@ -1364,7 +1490,7 @@ use_preset_vocabulary: false
 歹手勢
 歹喙
 歹喙斗
-歹食
+歹食	phai2 tsiah8
 歹運
 歹神氣
 歹貨
@@ -1393,7 +1519,7 @@ use_preset_vocabulary: false
 歹局
 歹瓜厚子	phai kue kau tsi
 歹瓜厚子	phainn kue kau tsi
-歹命
+歹命	phai2 mia7
 歹命儂
 歹歹
 歹話
@@ -1858,8 +1984,12 @@ use_preset_vocabulary: false
 在底	tsai tere
 在位	tsai ui
 在室	tsai sik
-在室女	tsai sik lir
-在室男	tsai sik lam
+在室女	tsai6 sik4 lir2
+在室女	tsai6 sit4 lir2
+在室女	tsai6 sit4 du2
+在室男	tsai6 sit4 lam5
+在室男	tsai6 sit4 dam5
+在室男	tsai6 sik4 lam5
 在場	tsai tiunn
 在穩	tsai un
 在勢	tsai si
@@ -32262,8 +32392,7 @@ use_preset_vocabulary: false
 梅仔餅	m a piann
 毋止	m tsi
 毋是空	m si khang
-毋愛	m ai
-毋捌
+毋捌	m7 pat4
 毋捌寶
 毋免	m bian
 毋無	m bo
