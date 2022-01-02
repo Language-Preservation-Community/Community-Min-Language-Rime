@@ -37,6 +37,16 @@ use_preset_vocabulary: false
 ...
 ##  newly added word
 ##  once the dicionary are more complete, we can rearrange these to respective location
+東石箬	tang1 tsioh8 hioh8	#Different places has different dialect and people able to differentiate
+過溝噠	ker3 kau1 ta6	#噠 揣無字
+網寮咻	bang6 liau5 hiuh8	#same meaning as above
+布袋諾	poo3 ter7 hoo6	#諾 揣無字
+布袋諾	poo3 ter7 hann7	#諾 揣無字
+塭仔啦	un3 nann2 la6	#啦 揣無字
+新塭落吐	sin1 un3 lau2 thoo6	#note the tones don't match, research need to be done
+咻	hiuh8 
+虔婆	khian5 phua5	#Tales of Lychee Mirror
+婆	phua5
 即	tsiah8	#Correct Characters
 赫	hiah4	#Definitely the correct words for hiah tsue, meaning very
 赫濟	hiah4 tsue6
@@ -33838,9 +33848,11 @@ e̍ⁿ	enn8
 等呼	ting hoo
 聲韻	siann un
 聲韻調	siann un tiau
-聲母
-韻母
-聲調	siann tiau
+聲母	siann1 bo2
+聲母	siann1 bu2
+韻母	un7 bo2
+韻母	un7 bu2
+聲調	siann1 tiau5
 平聲	piann siann
 平仄	piann tseh
 仄聲	tseh siann

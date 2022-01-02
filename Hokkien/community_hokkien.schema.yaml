@@ -64,6 +64,7 @@ speller:
     - derive/^ts/z/
     - derive/^d/l/
     - derive/^l/d/ #philipine and 廈門 
+    - derive/A/a/
     - derive/uih/ueh/
     - derive/iat/iet/ # For easier searching words since people pronunce /iet/
     - derive/iap/iep/ # For easier searching words since people pronunce /iep/
@@ -72,6 +73,7 @@ speller:
     - derive/IR/ir/
     - derive/IR/i/
     - derive/IR/u/
+    - derive/U/u/
     - derive/IR/y/
     - derive/ir/y/ # For Easier Typing
     - derive/oo/o/ # For easier typing 
@@ -83,8 +85,9 @@ speller:
     - derive/Er/ue/
     - derive/ere/ue/
     - derive/ere/e/
+    - derive/^ue/ua/ #Exact ue
     - derive/iann/ia/ # For easier typing
-    - derive/ian/ien/ # People who always type hokkien instead of Hokkian same goes for other words
+    - derive/ian/ien/ # People who always type hokkien instead of Hokkian same goes for other words2020-03-12T13:34:56.123Z INFO  [org.example.Class]: This is a #simple #logline containing a 'value'.
     - derive/uAinn/uan/
     - derive/uInn/ng/
     - derive/uainn/uenn/	#南靖
@@ -100,7 +103,6 @@ speller:
     - derive/^m/b/ #The m is mb or b or m depending on dialects
     - derive/iunn/ionn/	
     - derive/niu/nio/
-    - derive/ue/ua/
     - derive/ern/en/
     - derive/er/e/
     - derive/ing/eng/
