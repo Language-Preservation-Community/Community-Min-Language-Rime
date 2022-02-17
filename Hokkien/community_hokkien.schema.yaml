@@ -64,6 +64,9 @@ speller:
     - derive/^ts/z/
     - derive/^d/l/
     - derive/^l/d/ #philipine and 廈門	
+    - derive/ern/un/ #漳州 and 安溪	
+    - derive/iok/iuk #in hokkeen dictionary
+    - derive/iong/iung #in hokkeen dictionary 
     - derive/A/a/
     - derive/ern/in/
     - derive/uih/ueh/
@@ -84,6 +87,7 @@ speller:
     - derive/ik/iak/ # Philippine + Tsin Kang + tsuan tsiu have iak for ik sounds
     - derive/ur/u/
     - derive/er([^eptkmng]*)(h?)$/ue$1$2/
+    - derive/E/e/
     - derive/Er/e/
     - derive/Er/ue/
     - derive/ere/ue/
