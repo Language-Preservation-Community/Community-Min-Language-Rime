@@ -104,6 +104,8 @@ speller:
     - derive/mian/mian/
     - derive/aInn/an/
     - derive/aInn/ing/
+    - derive/I/i/
+    - derive/Iak/iok/
     - derive/Iang/iong/
     - derive/^ngaI/gan/
     - derive/^ngaI/ging/
