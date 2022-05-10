@@ -65,7 +65,6 @@ speller:
     - derive/^j/l/
     - derive/^d/l/
     - derive/^l/d/ #philipine and 廈門	
-    - derive/
     - derive/ern/un/ #漳州 and 安溪	
     - derive/iok/iuk #in hokkeen dictionary
     - derive/iong/iung #in hokkeen dictionary 
