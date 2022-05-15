@@ -37,6 +37,8 @@ use_preset_vocabulary: false
 ...
 ##  newly added word
 ##  once the dicionary are more complete, we can rearrange these to respective location
+澎湖	phinn5 oo5
+澎湖	phenn5 oo5
 諸葛亮	tsir1 kat4 lIang7
 第二工	te7 ji7 kang1
 餬	ko5
@@ -1088,7 +1090,7 @@ e̍ⁿ	enn8
 佳期	ka ki
 家肴	ka gau
 家肴	ka ngau
-佳話	ka ue
+佳話	ka Ue
 佳音	ka im
 佳哉	ka tsai
 鉸刀	ka to
@@ -1186,7 +1188,7 @@ e̍ⁿ	enn8
 巧物	kha2 mih8
 巧合	kha2 hap8
 敲門	kha muI
-敲電話	kha3 tian ue
+敲電話	kha3 tian Ue
 較好	khah ho
 較濟	khah tsere
 較少	khah tsio
@@ -1714,7 +1716,7 @@ e̍ⁿ	enn8
 檯面	tai bin
 臺式	tai sik
 臺灣	tai uan
-臺灣話	tai uan ue
+臺灣話	tai uan Ue
 臺海	tai hai
 臺胞	tai pau
 臺商	tai sIang
@@ -2657,7 +2659,7 @@ e̍ⁿ	enn8
 流凊汗	lau tshin kuann
 流瘍	lau sIang
 留任	lau jim
-留話	lau ue
+留話	lau Ue
 劉伯溫	lau phik un
 老儂	lau lang
 老大儂	lau tua lang
@@ -2791,7 +2793,7 @@ e̍ⁿ	enn8
 猴戲	kau hi
 猴跤猴手	kau kha kau tshiu
 猴囡仔
-厚話	kau ue
+厚話	kau Ue
 厚皮	kau pher
 厚面皮	kau bin pher
 厚茶	kau te
@@ -3593,7 +3595,7 @@ e̍ⁿ	enn8
 答謝	tap sia
 搭插	tap tshap
 談論	tam lun
-談話	tam ue
+談話	tam Ue
 談笑	tam siau
 談判	tam phuann
 談天說地	tam thian suat te
@@ -3780,7 +3782,7 @@ e̍ⁿ	enn8
 歁𡳞	kham lan
 歁潲	kham siau
 歁神	kham sin
-歁話	kham ue
+歁話	kham Ue
 歁囝
 歁戇	kham gong
 歁笑	kham tshio
@@ -4005,7 +4007,7 @@ e̍ⁿ	enn8
 三七	sam tshit
 三八	sam pereh
 三九	sam kau
-糝說話	sam serh ue
+糝說話	sam serh Ue
 糝粉	sam hun
 鬖頭鬖面	sam thau sam bin
 三思	sam sur
@@ -4349,7 +4351,7 @@ e̍ⁿ	enn8
 挽筋	ban kern
 挽瓜揫藤	ban kue tshiu tin
 閩南	ban lam
-閩南話	ban lam ue
+閩南話	ban lam Ue
 閩南語	ban lam gir
 閩南儂	ban lam lang
 閩南風	ban lam hong
@@ -5024,7 +5026,7 @@ e̍ⁿ	enn8
 放數	pang siau
 北方	pak hng
 北仔	pak a
-北仔話	pak a ue
+北仔話	pak a Ue
 北仔腔	pak a khiunn
 北風	pak huang
 北風	pak hong
@@ -5813,7 +5815,7 @@ e̍ⁿ	enn8
 寄付	kia hu
 寄託	kia thok
 寄宿	kia sok
-寄話	kia ue
+寄話	kia Ue
 寄望	kia bang
 崎仔	kia a
 騎馬
@@ -6617,7 +6619,7 @@ e̍ⁿ	enn8
 痟貓	siau niau
 痟貪	siau tham
 痟儂	siau lang
-痟話	siau ue
+痟話	siau Ue
 小人	siau jin
 小人體	siau jin there
 小便	siau pian
@@ -6778,7 +6780,7 @@ e̍ⁿ	enn8
 聽著	thiann tioh
 聽聲	thiann siann
 聽喙	thiann tshui
-聽話	thiann ue
+聽話	thiann Ue
 聽賺	thiann tann
 聽見	thiann kinn
 聽講	thiann kong
@@ -6999,7 +7001,7 @@ e̍ⁿ	enn8
 啥代	siann tai
 啥款	siann khuan
 啥樣	siann iunn
-啥話	siann ue
+啥話	siann Ue
 啥潲	siann siau
 聖公	siann kong
 聖媽	siann ma
@@ -7485,7 +7487,7 @@ e̍ⁿ	enn8
 纖維	tshiam ui
 攕仔	tshiam a
 僭位	tshiam ui
-僭話	tshiam ue
+僭話	tshiam Ue
 竊取	tshiap tshU
 竊盜
 橙汁
@@ -8033,7 +8035,7 @@ e̍ⁿ	enn8
 電能	tian ling
 電能	tian lerng
 電流	tian liu
-電話	tian ue
+電話	tian Ue
 電報	tian po
 電信	tian sin
 電信局	tian sin kiok
@@ -9087,7 +9089,7 @@ e̍ⁿ	enn8
 章法	tsIang huat
 彰顯	tsIang hian
 漳州	tsIang tsiu
-漳州話	tsIang tsiu ue
+漳州話	tsIang tsiu Ue
 漳州腔	tsIang tsiu khiunn
 漳腔	tsIang khiunn
 漳北	tsIang pak
@@ -9095,7 +9097,7 @@ e̍ⁿ	enn8
 漳廈	tsIang ha
 漳泉	tsIang tsuan
 漳州	tsiang tsiu
-漳州話	tsiang tsiu ue
+漳州話	tsiang tsiu Ue
 漳州腔	tsiang tsiu khiunn
 漳腔	tsiang khiunn
 漳北	tsiang pak
@@ -9568,7 +9570,7 @@ e̍ⁿ	enn8
 大主大意	tua tsu tua i
 大欉	tua tsang
 大腹肚	tua pak too
-大話	tua ue
+大話	tua Ue
 大位	tua ui
 大雙
 大領	tua nia
@@ -9713,7 +9715,7 @@ e̍ⁿ	enn8
 外國	gua kok
 外國仔	gua kok a
 外國儂	gua kok lang
-外國話	gua kok ue
+外國話	gua kok Ue
 外國語	gua kok gir
 外語	gua gir
 外表	gua piau
@@ -10023,7 +10025,7 @@ e̍ⁿ	enn8
 搬走	puann tsau
 搬戲	puann hi
 搬運	puann un
-搬話	puann ue
+搬話	puann Ue
 搬請	puann tshiann
 搬徙	puann sua
 半爿	puann paInn
@@ -10042,7 +10044,7 @@ e̍ⁿ	enn8
 半陰陽	puann iam iunn
 半空中	puann khong tiong
 半句	puann ku
-半句話	puann ku ue
+半句話	puann ku Ue
 半路	puann loo
 半暝	puann me
 半年	puann ni
@@ -10064,7 +10066,7 @@ e̍ⁿ	enn8
 半桶屎	puann thang sai
 盤擔	puann tann
 盤仔	puann a
-盤話	puann ue
+盤話	puann Ue
 盤車	puann tshia
 盤數	puann siau
 販貨	phuann her
@@ -10131,7 +10133,7 @@ e̍ⁿ	enn8
 爛塗	nua thoo
 官職	kuann tsit
 官衙	kuann ge
-官話	kuann ue
+官話	kuann Ue
 官位	kuann ui
 官服	kuann hok
 官府	kuann hu
@@ -11162,12 +11164,12 @@ e̍ⁿ	enn8
 泉州	tsuan tsiu
 泉州市	tsuan tsiu tshi
 泉州腔	tsuan tsiu khiunn
-泉州話	tsuan tsiu ue
+泉州話	tsuan tsiu Ue
 泉州儂	tsuan tsiu lang
 泉腔	tsuan khiunn
 泉漳	tsuan tsIang
 泉漳片	tsuan tsIang phian
-泉漳話	tsuan tsIang ue
+泉漳話	tsuan tsIang Ue
 泉廈	tsuan ha
 全部	tsuan poo
 全文	tsuan bun
@@ -11417,7 +11419,7 @@ e̍ⁿ	enn8
 廈門	e muI
 廈門市	e muI tshi
 廈門腔	e muI khiunn
-廈門話	e muI ue
+廈門話	e muI Ue
 廈門儂	e muI lang
 扒飯	pe puInn
 扒癢	pe tsiunn
@@ -11474,7 +11476,7 @@ e̍ⁿ	enn8
 白痘	peh tiO
 白菜	peh tshai
 白醋	peh tshoo
-白話	peh ue
+白話	peh Ue
 白米	peh bi
 白儂	peh lang
 白帖	peh thiap
@@ -11567,7 +11569,7 @@ e̍ⁿ	enn8
 加少	ke tsio
 加加	ke ke
 加講	ke kong
-加話	ke ue
+加話	ke Ue
 加了	ke liau
 加工	ke kang
 加額	ke giah
@@ -11634,8 +11636,8 @@ e̍ⁿ	enn8
 扴味	keh bi
 客仔	kheh a
 客家	kheh ka
-客家話	kheh ka ue
-客話	kheh ue
+客家話	kheh ka Ue
+客話	kheh Ue
 客家儂	kheh ka lang
 客儂	kheh lang
 客鳥	kheh tsiau
@@ -11702,7 +11704,7 @@ e̍ⁿ	enn8
 紗線	se suann
 屑捒	seh sak
 ##	ue/ueh
-話	ue7
+話	Ue7
 畫	ue7
 畫	ueh8
 瓜	kue1
@@ -11710,11 +11712,11 @@ e̍ⁿ	enn8
 花	hue1
 嘩	hue1
 化	hue3	1%
-話題	ue tere
-話語	ue gir
+話題	Ue tere
+話語	Ue gir
 話母
-話尾	ue ber
-話劇	ue kIak
+話尾	Ue ber
+話劇	Ue kIak
 畫面	ue bin
 畫卷	ue kuInn
 畫報	ue po
@@ -12397,7 +12399,7 @@ e̍ⁿ	enn8
 生粒仔	senn liap a
 生設	senn siat
 生相	senn siunn
-生話	senn ue
+生話	senn Ue
 生鍋	senn er
 生菇	senn koo
 姓名	senn mia
@@ -12558,7 +12560,7 @@ e̍ⁿ	enn8
 賄選	hue suan
 廢人	hue jin
 廢物	hue but
-廢話	hue ue
+廢話	hue Ue
 廢寢忘食	hue tshim bong sit
 廢去	hue khIR
 廢官	hue kuann
@@ -14046,7 +14048,7 @@ e̍ⁿ	enn8
 至於	tsi ir
 接載	tsih tsai
 接載袂牢	tsih tsai bere tiau
-接電話	tsih tian ue
+接電話	tsih tian Ue
 接接	tsih tsiap
 接力	tsih lat
 接著	tsih tioh
@@ -14534,7 +14536,7 @@ e̍ⁿ	enn8
 添錢	thinn tsinn
 添價	thinn ke
 添飯	thinn puInn
-添話	thinn ue
+添話	thinn Ue
 䋎衫	thinn sann
 䋎褲	thinn khoo
 䋎紐	thinn liu
@@ -15386,7 +15388,7 @@ e̍ⁿ	enn8
 引申	in sin
 應喙	in tshui
 應喙應舌	in tshui in tsih
-應話	in ue
+應話	in Ue
 應答	in tap
 應會	in her
 應呃	in Erh
@@ -15660,7 +15662,7 @@ e̍ⁿ	enn8
 直轄市	tit hat tshi
 直徑	tit king
 直行	tit kiann
-直儂講直話	tit lang kong tit ue
+直儂講直話	tit lang kong tit Ue
 直腸直肚	tit tng tit too
 直透	tit thau
 直系	tit he
@@ -16515,7 +16517,7 @@ e̍ⁿ	enn8
 實用	sit ing
 實景	sit king
 實力	sit lik
-實話	sit ue
+實話	sit Ue
 實實	sit sit
 實講	sit kong
 實說	sit serh
@@ -18116,7 +18118,7 @@ e̍ⁿ	enn8
 情感	tsing kam
 情結	tsing kat
 情操	tsing tsho
-情話	tsing ue
+情話	tsing Ue
 曾經	tsing king
 曾經	tserng king
 從頭	tsing thau
@@ -18994,7 +18996,7 @@ e̍ⁿ	enn8
 對儂	tui lang
 對待	tui thai
 對問	tui muI
-對話	tui ue
+對話	tui Ue
 對喙	tui tshui
 對談	tui tam
 對點	tui tiam
@@ -19352,7 +19354,7 @@ e̍ⁿ	enn8
 鬼掠去	kui liah khIR
 鬼剃頭	kui thi thau
 鬼剃頭	kui thih thau
-鬼話	kui ue
+鬼話	kui Ue
 鬼頭	kui thau
 鬼頭鬼腦
 鬼腦
@@ -20020,11 +20022,11 @@ e̍ⁿ	enn8
 喙下斗	tshui e tau
 喙下頦	tshui e hai
 喙口	tshui khau
-喙口話	tshui khau ue
+喙口話	tshui khau Ue
 喙口願	tshui khau guan
 喙口定	tshui khau tiann
 喙箍	tshui khoo
-喙箍話	tshui khoo ue
+喙箍話	tshui khoo Ue
 喙邊	tshui pinn
 喙聖	tshui siann
 喙約	tshui Iak
@@ -20049,7 +20051,7 @@ e̍ⁿ	enn8
 喙硬	tshui nge
 喙凊	tshui tshin
 喙起凊	tshui khi tshin
-喙前話	tshui tsaInn ue
+喙前話	tshui tsaInn Ue
 喙錦	tshui gim
 喙錦	tshui kim
 喙目鼻
@@ -20327,7 +20329,7 @@ e̍ⁿ	enn8
 問卜	muI pok
 問佛	muI put
 問神	muI sin
-問話	muI ue
+問話	muI Ue
 轉來	tuInn lai
 轉去	tuInn khIR
 轉來去	tuInn lai khIR
@@ -20343,7 +20345,7 @@ e̍ⁿ	enn8
 轉輪	tuInn lun
 轉運	tuInn un
 轉聲	tuInn siann
-轉話	tuInn ue
+轉話	tuInn Ue
 轉色	tuInn sik
 轉後頭	tuInn au thau
 轉外家	tuInn gua ke
@@ -20478,7 +20480,7 @@ e̍ⁿ	enn8
 算袂和	suInn bere ho
 算會和	suInn ere ho
 算會和	suInn e ho
-算話	suInn ue
+算話	suInn Ue
 算額	suInn giah
 算術	suInn sut
 算法	suInn huat
@@ -21621,7 +21623,7 @@ e̍ⁿ	enn8
 配肉	pher hik
 配魚	pher hIR
 配湯	pher thng
-配話	pher ue
+配話	pher Ue
 配物配	pher mngh pher
 配物配	pher mih pher
 皮鞋	pher ere
@@ -21955,7 +21957,7 @@ e̍ⁿ	enn8
 和尚	her siunn
 回復	her hok
 回魂	her hun
-回話	her ue
+回話	her Ue
 會失禮	her sit le
 會毋著	her m tioh
 罪過	tser kua
@@ -21992,7 +21994,7 @@ e̍ⁿ	enn8
 稅賦	ser hu
 稅率	ser lut
 稅制	ser tse
-說話	serh ue
+說話	serh Ue
 說多謝	serh to sia
 說多謝	serh toO sia
 說笑	serh tshio
@@ -22997,7 +22999,7 @@ e̍ⁿ	enn8
 鋪面蟶	phoo bin than
 鋪棉裘	phoo mi hiu
 鋪排	phoo pai
-鋪排話	phoo pai ue
+鋪排話	phoo pai Ue
 鋪路	phoo loo
 鋪磚	phoo tsuInn
 鋪石	phoo tsioh
@@ -23007,7 +23009,7 @@ e̍ⁿ	enn8
 普及	phoo kip
 普世	phoo se
 普通	phoo thong
-普通話	phoo thong ue
+普通話	phoo thong Ue
 普天下	phoo thian ha
 普渡	phoo too
 普遍	phoo phian
@@ -23141,7 +23143,7 @@ e̍ⁿ	enn8
 土星	thoo tshenn
 土壤	thoo jIang
 土番	thoo huan
-土話	thoo ue
+土話	thoo Ue
 土土講	thoo thoo kong
 土土說	thoo thoo serh
 土名	thoo mia
@@ -23633,7 +23635,7 @@ e̍ⁿ	enn8
 粗紙	tshoo tsua
 粗菜便飯	tshoo tshai pian puInn
 粗淺
-粗話	tshoo ue
+粗話	tshoo Ue
 粗喙	tshoo tshui
 粗喙野斗	tshoo tshui ia tau
 粗暴
@@ -24122,7 +24124,7 @@ e̍ⁿ	enn8
 蚵䭔	o tEr
 學堂	oh tng
 學行	oh kiann
-學話	oh ue
+學話	oh Ue
 學飛	oh per
 學樣	oh iunn
 學說	oh serh
@@ -24359,7 +24361,7 @@ e̍ⁿ	enn8
 無一定	bo it ting
 無定著	bo tiann tioh
 無的確	bo tik khak
-無話	bo ue
+無話	bo Ue
 無偌	bo gua
 無偌	bo jua
 無偌久	bo jua ku
@@ -24663,7 +24665,7 @@ e̍ⁿ	enn8
 套裝	tho tsong
 套房	tho pang
 套直	tho tit
-套話	tho ue
+套話	tho Ue
 妥當	tho tong
 妥協	tho hiap
 唾棄	tho khi
@@ -25006,7 +25008,7 @@ e̍ⁿ	enn8
 好處	ho tshir
 好厝邊	ho tshu pinn
 好鬥	ho tau
-好說話	ho serh ue
+好說話	ho serh Ue
 好喙斗	ho tshui tau
 好額	ho giah
 好額儂	ho giah lang
@@ -25036,9 +25038,9 @@ e̍ⁿ	enn8
 好教示	ho ka si
 好叫毋好應	ho kio m ho in
 好腳數	ho kioh siau
-好講話	ho kong ue
+好講話	ho kong Ue
 好禮數	ho le soo
-好話	ho ue
+好話	ho Ue
 好步	ho poo
 好死	ho si
 好聲	ho siann
@@ -25165,7 +25167,7 @@ e̍ⁿ	enn8
 造勢	tso se
 造林	tso lim
 造型	tso hing
-造話	tso ue
+造話	tso Ue
 造路	tso loo
 造福	tso hok
 造化	tso hua
@@ -25198,7 +25200,7 @@ e̍ⁿ	enn8
 噪音	tsho im
 挫折	tsho tsiat
 𧮙儂	tshoh lang
-𧮙粗話	tshoh tshoo ue
+𧮙粗話	tshoh tshoo Ue
 𧮙姦	tshoh kan
 挲挲	so so
 挲頭	so thau
@@ -25823,7 +25825,7 @@ e̍ⁿ	enn8
 童貞	tong tsing
 童謠	tong iau
 童軍	tong kun
-童話	tong ue
+童話	tong Ue
 童年	tong lian
 唐詩	tong si
 螳螂	tong long
@@ -26135,7 +26137,7 @@ e̍ⁿ	enn8
 剛強	kong kIang
 剛毅	kong ge
 綱要	kong iau
-講話	kong ue
+講話	kong Ue
 講法	kong huat
 講好	kong ho
 講明	kong bing
@@ -26156,8 +26158,8 @@ e̍ⁿ	enn8
 講天說皇帝	kong thinn serh hong te
 講天掠皇帝
 講暢	kong thiong
-講嘐潲話	kong hau siau ue
-講大聲話	kong tua siann ue
+講嘐潲話	kong hau siau Ue
+講大聲話	kong tua siann Ue
 講和	kong ho
 講白賊	kong peh tshat
 講親情	kong tshin tsiann
@@ -26347,7 +26349,7 @@ e̍ⁿ	enn8
 戇頭戇面	gong thau gong bin
 戇直	gong tit
 戇錢	gong tsinn
-戇話	gong ue
+戇話	gong Ue
 戇大呆	gong tua tai
 風神	hong sin
 風雨	hong u
@@ -26992,7 +26994,7 @@ e̍ⁿ	enn8
 招聘	tsio phing
 少少	tsio tsio
 少歲	tsio her
-少話	tsio ue
+少話	tsio Ue
 少算	tsio suInn
 少儂	tsio lang
 少缺	tsio kerh
@@ -27895,10 +27897,10 @@ e̍ⁿ	enn8
 俗價	siok ke
 俗例	siok le
 俗名	siok mia
-俗話	siok ue
+俗話	siok Ue
 俗世	siok se
 俗事	siok sur
-俗語話	siok gir ue
+俗語話	siok gir Ue
 俗稱	siok tshing
 俗諺	siok gan
 屬於	siok ir
@@ -29535,7 +29537,7 @@ e̍ⁿ	enn8
 佛轎	put kio
 佛骨	put kut
 佛輦	put lian
-佛話	put ue
+佛話	put Ue
 佛生	put senn
 佛生日	put senn jit
 佛像	put sIang
@@ -30714,7 +30716,7 @@ e̍ⁿ	enn8
 順目	sun bak
 順眼	sun gan
 順著	sun tioh
-順話尾	sun ue ber
+順話尾	sun Ue ber
 順利	sun li
 順情	sun tsing
 純粹	sun tshui
@@ -31052,7 +31054,7 @@ e̍ⁿ	enn8
 油垢	iu kau
 油漏	iu lau
 油麻	iu mua
-油畫	iu ue
+油畫	iu Ue
 油矸	iu kan
 油瓶	iu pan
 油粕	iu phoh
@@ -31456,7 +31458,7 @@ e̍ⁿ	enn8
 酒令	tsiu ling
 酒料	tsiu liau
 酒量	tsiu lIang
-酒話	tsiu ue
+酒話	tsiu Ue
 酒配	tsiu pher
 酒癖	tsiu phiah
 酒粕	tsiu phoh
@@ -33351,12 +33353,12 @@ e̍ⁿ	enn8
 香港	hIang kang
 澳門
 北京	pak kiann
-北京話	pak kiann ue
+北京話	pak kiann Ue
 天津	thian tin
 上海	sIang hai
-上海話	sIang hai ue
+上海話	sIang hai Ue
 重慶	tiong khing
-重慶話	tiong khing ue
+重慶話	tiong khing Ue
 河北	ho pak
 河北省	ho pak sing
 石家庄	tsioh ka tsng
@@ -33380,7 +33382,7 @@ e̍ⁿ	enn8
 商丘	sIang khiu
 信陽	sin Iang
 固始	koo si
-中原官話	tiong guan kuann ue
+中原官話	tiong guan kuann Ue
 山西	suann sai
 山西省	suann sai sing
 太原	thai guan
@@ -33400,14 +33402,14 @@ e̍ⁿ	enn8
 威海	ui hai
 煙臺	ian tai
 淄博	tsur phok
-胶遼官話	kau liau kuann ue
+胶遼官話	kau liau kuann Ue
 江蘇	kang soo
 江蘇省	kang soo sing
 蘇北	soo pak
 江北	kang pak
-蘇北話	soo pak ue
-江淮官話	kang huai kuann ue
-下江官話	ha kang kuann ue
+蘇北話	soo pak Ue
+江淮官話	kang huai kuann Ue
+下江官話	ha kang kuann Ue
 蘇南	soo lam
 江南	kang kam
 江東	kang tong
@@ -33416,14 +33418,14 @@ e̍ⁿ	enn8
 北吳
 南京	lam kiann
 金陵	kim ling
-南京話	lam kiann ue
+南京話	lam kiann Ue
 無錫	bu sik
 常州	sIang tsiu
 蘇州	soo tsiu
-蘇州話	soo tsiu ue
+蘇州話	soo tsiu Ue
 姑蘇	koo soo
 揚州	iunn tsiu
-揚州話	iunn tsiu ue
+揚州話	iunn tsiu Ue
 泰州	thai tsiu
 泰興	thai hing
 鹽城	iam siann
@@ -33439,7 +33441,7 @@ e̍ⁿ	enn8
 蘇杭	soo hang
 寧波	ling pho
 溫州	un tsiu
-溫州話	un tsiu ue
+溫州話	un tsiu Ue
 蒼南	tshong lam
 玉環	giok khuan
 洞頭	tong thau
@@ -33482,13 +33484,13 @@ e̍ⁿ	enn8
 湖南省	oo lam sing
 長沙	tIang sa
 湘語	sIang gir
-湖南話	oo lam ue
+湖南話	oo lam Ue
 四川	sur tshuan
 成都	sing too
-西南官話	se lam kuann ue
+西南官話	se lam kuann Ue
 西官	se kuan
-上江官話	siong kang kuann ue
-四川話	sur tshuan ue
+上江官話	siong kang kuann Ue
+四川話	sur tshuan Ue
 巴蜀	pa siok
 天府之國	thian hu tsi kok
 廣東	kuInn tang
@@ -33512,18 +33514,18 @@ e̍ⁿ	enn8
 海陸豐	hai liok hong
 海豐	hai hong
 陸豐	liok hong
-潮州話	tio tsiu ue
+潮州話	tio tsiu Ue
 潮汕	tio suann
 廣西	kuInn sai
 廣西省	kuInn sai sing
 桂林	kui lim
 柳州	liu tsiu
-桂柳話	kui liu ue
+桂柳話	kui liu Ue
 南寧	lam ling
 海南	hai lam
 海南省	hai lam sing
 海南島
-海南話	hai lam ue
+海南話	hai lam Ue
 貴州	kui tsiu
 貴州省	kui tsiu sing
 貴陽	kui Iang
@@ -33551,13 +33553,13 @@ e̍ⁿ	enn8
 黑龍江	hik liong kang
 黑龍江省	hik liong kang sing
 哈爾濱
-東北話	tang pak ue
+東北話	tang pak Ue
 福建	hok kian
 福建省	hok kian sing
 福州	hok tsiu
-福州話	hok tsiu ue
+福州話	hok tsiu Ue
 莆田	phoo tshan
-莆田話	phoo tshan ue
+莆田話	phoo tshan Ue
 寧德	ling tik
 三明	sam ing
 龍岩
