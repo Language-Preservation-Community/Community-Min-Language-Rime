@@ -37,6 +37,50 @@ use_preset_vocabulary: false
 ...
 ##  newly added word
 ##  once the dicionary are more complete, we can rearrange these to respective location
+生真	tshenn1 tsin1
+生真真	tshenn1 tsin1 tsin1 ## 活生生 (verb )alive
+生真風	tshenn1 tsin1 hong1
+生真雨	tshenn1 tsin1 hoo6
+生真病	tshenn1 tsin1 penn7
+生真病	tshenn1 tsin1 pinn7
+生	tshenn1
+教室	kau3 sit4
+教室	kau3 sik4
+灇浴	tsang5 ik8
+灇肉	tsang5 hik8
+煤	mui5
+呼	honnh4
+家事	ka1 sur7
+雪文	sat4 bun5
+染蠻	jiam2 ban5
+染蠻	jiam2 buan5 kin1
+不常時	put4 sIang5 si5
+倖	sing7
+之前	tsi1 tsuInn5 
+樓井	lau5 tsinn2
+天井	thinn1 tsenn2
+吂	mang2	#Contraction of m-thang
+垃儳	la5 sam5
+兇死	hiong1 si2	#An khue meaning dirty
+精死	tsing1 si2	#An Khue meaning smart
+後悔	hio6 hue2
+後悔	hoo6 hue2
+後	hio6
+後	hoo6
+嚇	han2
+𠕇	taInn7
+个	ge5
+戇	ngong7
+湖南	oo5 lam5
+一囝久	tsit4 kann2 ku2
+挈	khereh8
+挾	khereh8
+輾	kauh4
+拍搶	phah4 tshionn2
+搶	tshionn2
+啱	ngam3
+嫉妒	tsit8 too3
+煏	pik4
 澎湖	phinn5 oo5
 澎湖	phenn5 oo5
 諸葛亮	tsir1 kat4 lIang7
@@ -432,9 +476,7 @@ use_preset_vocabulary: false
 啥物物件	sia mi mng kia	10
 肉骨茶	ba kut te	10
 肉骨茶	bah kut teh	10
-外口	ua khau	10
-教	ka	10
-教	kau	10
+外口	gua khau	10
 戶口	ho khau	10
 一下	tsit he	10
 問題	mun tue	10
@@ -33230,6 +33272,7 @@ e̍ⁿ	enn8
 噶喇吧	ka la pa
 東帝汶	tong te bun
 帝力	te lik
+柬埔寨	kan2 poo1 tsai7
 柬埔寨	kan phoo tse
 金邊	kim pian
 緬甸	bian tian
