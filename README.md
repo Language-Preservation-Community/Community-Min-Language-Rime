@@ -23,6 +23,8 @@ Note: Focus on the word 小狼毫 with the window symbol on the left \
 - Same as above but please download this file *[default.custom.yaml](https://github.com/loaden/rime/blob/master/default.custom.yaml).
 - Modify the default.custom.yaml to include the .schema files you need
 - Put it in the ~/Library/Rime
+- Open the Squirrel App Content by right clicking on it where they display "Show content" in the installation folder
+- Find default.custom.yaml under shared_support folder
 
 ## iPhone Installation Guide
 1. install an app called iRime
@@ -62,7 +64,7 @@ Note: Focus on the word 小狼毫 with the window symbol on the left \
 1. Make sure you are in the correct IME which is labelled "Chinese 小狼毫" using Win key + spacebar\
 2. To switch to the desired IME, press Ctrl + ` Button\   
 3. After pressing Ctrl + `, go to the keyboard you decide to use. In my case it will be Hokkien.\
-4. You can start typing!  (Use Switch to switch between English input and Chinese input)\\
+4. You can start typing!  (Use Switch to switch between English input and Chinese input)\
 
 
 ## To contribute to the dictionaries
@@ -84,7 +86,7 @@ Note: Focus on the word 小狼毫 with the window symbol on the left \
 *Remember to test your dictionary first before pushing!*\
 *Remember to copy and paste from previous entry to prevent error*\
 *Try to use notepad++ since this application handles larger number of words than regular notepad*\
-*Sometimes it might be the bug of the application itself and your changes aren't reflected, and you might need to remove the dictionary from the data folder and make sure it uninstalls the dictionary through opening out and put the dictionary back into data folder again"\\
+*Sometimes it might be the bug of the application itself and your changes aren't reflected, and you might need to remove the dictionary from the data folder and make sure it uninstalls the dictionary through opening out and put the dictionary back into data folder again"\
 
 ## Original Authors
 Credit to the original authors who set up the dictionaries and schemas\
