@@ -36,28 +36,137 @@ sort: by_weight
 use_preset_vocabulary: false
 ...
 ##  newly added word
-##  once the dicionary are more complete, we can rearrange these to respective location
-好了 ho2 liau2
-好了未 ho2 liau2 ber7
-咯   kok8
-雷公  lui5 kang1
-五弦  goo6 hian5
-三弦  sam1 hian5
-麻雀  mua5 tshiok4
-擂   lui5
-擂鼓  lui5 koo2
-板嘹  pan2 liau5
-紩   thinn6
-紩衫   thinn6 sann1
-橐仔  lak4 kiann2
-揍   bok4
-舂臼  tsing1 khu7
-掮   khaInn2
-掮   khaInn1
-泏   tsuh4	#Drip
-石石  siah8 tsioh8	#Marble
-杓   siah8   
-罵   me7
+##  once the dicionary are more complete, we can rearrange these to respective location 
+峇魯	ba5 lu2	# from malay Baru
+麻汝	ba5 lu2	# Malay loan word, means just now or new
+尪公	ang1 kong1	#
+尪公囝	ang1 kong1 kiann2	#
+芋頭粿	oo7 thau5 ker2	#
+芋頭	oo7 thau5	#
+點聲	tiam2 siann1	#
+薟椒	hiam1 tsio1	#
+炒粿條	tsha2 ker2 tiau5	#
+糋棗	tsinn3 tsor2	#
+油炸粿	iu5 tsa7 ker2	#
+油食粿	iu5 tsiah8 ker2	#
+油炸粿	iu5 tsiah8 ker2	#
+油炸粿	iu5 tsia7 ker2	#
+這个	tsit4 le5	#
+這个	tsit4 ge5	# 
+蕳砃	kan1 tan1	# Loan word from Malay
+蕳砃薯	kan1 tan1 tsir5	# Loan word from Malay
+蕳砃	kan1 tang1	# Loan word from Malay
+蕳砃薯	kan1 tang1 tsir5	# Loan word from Malay
+蕳砃	kang1 tang1	# Loan word from Malay
+蕳砃薯	kang1 tang1 tsir5	# Loan word from Malay
+暹羅	siam1 lo5	#
+暹	siam1	#
+掌	tsing2	#
+監獄	kam1 gak8	#
+跤跔	kha1 ku1	#
+馬滴	ma1 tih4	# Loan word from Malay
+飙車	piau1 tshia1	#
+揹	phainn6	#
+指甲	tsi2 kah4	#
+掌甲	tsing2 kah4	#
+掌甲	tsng2 kah4	#
+掌甲	tsin2 kah4	# Penang
+籠床	lang5 sng5	#
+糜	mue5	#
+糜	moi5	#
+糜	muai5	#
+啥	sann1	#
+何物	ha2 mih4	#
+火金蛄	her2 kim1 koo1	#
+飛機鳥	per1 ki1 tsiau2	#
+飛機	per1 ki1	#
+海牛	hai2 gu5	#
+勘頭勘面	kham1 thau5 kham1 bin7	#
+佗落	tah4 loh4	# 
+佗落	ta2 loh4	# 
+佗	tueh4	# contraction of 佗位
+佗	tuē	# contraction of 佗位
+這个	tsit4 le5	#Variant Pronunciation
+佗這个	to2 tsit4 le5	#Variant Pronunciation
+曼煎粿	ban3 tsian1 ker2	#Apam balik, originally from tsuan-tsiu, lots of names exist though
+慢煎粿	ban7 tsian1 ker2	#Apam balik, originally from tsuan-tsiu, lots of names exist though
+麥仔煎	beh8 a2 tsian1	#Apam balik, originally from tsuan-tsiu, lots of names exist though
+面粉煎	bin7 hun2 tsian1	#Apam balik, originally from tsuan-tsiu, lots of names exist though
+面粉	bin7 hun2	#face powder
+炤	tshio7	#Illuminate
+炤光	tshio7 kng1	#Illuminate
+林檎	lim5 khim5	#jambu, wax apple
+染霧	jiam5 bu7	#jambu, wax apple
+連霧	liam5 bu7	#jambu, wax apple
+林仔菝	na5 a2 put4	#Guava
+林仔菝	na5 a2 put4	#Guava
+林仔菝	nai5 a2 puat4	#Guava
+林仔菝	nai5 a2 put4	#Guava
+芒加	mang7 ka4	#Malay loan word nangka， means jackfruit
+芒吉	mang7 gek4	#Malay loan word, means mangoteen
+芒吉	mang7 git4	#Malay loan word, means mangoteen
+芒吉	bang7 git4	#Malay loan word, means mangoteen
+芒吉	bang7 keh4	#Malay loan word, means mangoteen
+芒吉	bang7 ngit4	#Malay loan word, means mangoteen
+芒吉	mang7 ngeh4	#Malay loan word, means mangoteen
+薔薇	tshiong5 bi5
+山巴	suann1 pa1
+荏懶	lam2 nua7 
+入工	jip4 kang1	#Start Work in Penang 
+夆	hong5	#contraction of 予儂 
+蟯	ngiau7
+蟯蟯掣	ngiauh8 ngiauh8 tshuah4
+敲嘓	kha3 khok8
+娘惹	nio5 nia1
+娘惹	no5 nia1
+娘惹	niu5 nia1
+儳飽	sam5 pa2	# from malay Sampah
+耽仔	tam5 a2	# Probably contraction of 頭站仔
+成格	tshiann5 kik4
+成格	tshiann5 keh4
+埠底	poo1 tere2
+坡底	poo1 tere2
+埠頭	poo1 thau5
+坡頭	poo1 thau5
+芥藍花	kha3 na5 hua1
+芥藍花	kha3 na5 hua2
+芥藍菜	ke3 na5 tshai3
+芥藍菜	kai3 lan5 tshai3
+芥藍	ke3 na5
+毋句	m7 ku2
+娘	nui5
+娘娘	nui5 nui5
+便宜	pan5 gi5
+𫝛佮	siang5 kah4	#KL Hokkien, similar
+欶管	suh4 kong2	
+吉隆坡	kit4 liong5 pho1 
+吉隆坡	kiat4 liong5 pho1 
+吉隆坡	kat4 lang5 pho1 
+好臉	hau3 lian2
+嗍草	soh4 tshau2
+嗍管	suh4 kong2
+水草	tsui2 tshau2
+好了	ho2 liau2
+好了未	ho2 liau2 ber7
+咯	kok8
+雷公	lui5 kang1
+五弦	goo6 hian5
+三弦	sam1 hian5
+麻雀	mua5 tshiok4
+擂	lui5
+擂鼓	lui5 koo2
+板嘹	pan2 liau5
+紩	thinn6
+紩衫	thinn6 sann1
+橐仔	lak4 kiann2
+揍	bok4
+舂臼	tsing1 khu7
+掮	khaInn2
+掮	khaInn1
+泏	tsuh4	#Drip
+石石	siah8 tsioh8	#Marble
+杓	siah8   
+罵	me7
 新電腦	sin1 tian7 nau2
 新電腦	sin1 tian7 lo2
 乎	honn1
@@ -467,8 +576,7 @@ use_preset_vocabulary: false
 區	khu1	10
 臺語	tai5 gi2	10
 語	gi2	10
-榴莲	liu lian	10
-擘榴莲	peh liu lian
+擘榴槤	peh liu lian
 家婆	ke poo	10
 在勢	tsai si	10
 緣投	eng thau	10
@@ -507,10 +615,9 @@ use_preset_vocabulary: false
 攢好	tshuan ho	10	#Meaning prepared
 攢好了	tshuan ho liau	10
 趕緊食	kuann2 kin2 tsiah8	10
-暗暝	am3 mi	10
-暗暝	am3 me	10
-暗暝	am3 bi	10
-暗時	am3 si	10
+暗暝	am3 mi5	10
+暗暝	am3 me5	10
+暗時	am3 si5	10
 昨暝	tsa7 mi5	10
 昨暝	tsa7 me5	10
 膎汁	ke5 tsiap4
@@ -3443,7 +3550,8 @@ e̍ⁿ	enn8
 研缽	ngaI puah
 研槌	ngaI thui
 研槽	ngaI tso
-還錢
+還錢	haInn2 tsinn5
+還鐳	haInn2 lui1
 還儂
 還數	haInn siau
 還數	huan siau
@@ -23547,6 +23655,7 @@ e̍ⁿ	enn8
 褲尾	khoo ber
 褲縫	khoo phang
 褲袋仔	khoo tEr a
+褲袋	khoo tEr
 褲懷	khoo kui
 褲帶	khoo tua
 褲長	khoo tng
@@ -33982,6 +34091,8 @@ e̍ⁿ	enn8
 茼蒿菜	tang o tshai
 茼蒿	tang her tshai
 菠薐菜	po lun tshai
+菠菜	po1 tshai3
+菠薐仔	pue1 leng5 a2
 冬瓜	tang kue
 芥菜	kua tshai
 蕹菜	ing tshai

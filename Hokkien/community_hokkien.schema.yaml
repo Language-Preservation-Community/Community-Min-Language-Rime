@@ -95,7 +95,8 @@ speller:
     - derive/Er/ue/
     - derive/ere/ue/
     - derive/ere/e/
-    - derive/Ue/ua/	#Something bad
+    - derive/Ue/ua/	#
+    - derive/ua/oa/	#POJ
     - derive/iann/ia/ # For easier typing
     - derive/ian/ien/ # People who always type hokkien instead of Hokkian same goes for other words2020-03-12T13:34:56.123Z INFO  [org.example.Class]: This is a #simple #logline containing a 'value'.
     - derive/uAinn/uan/
@@ -114,6 +115,7 @@ speller:
     - derive/^ngaI/ging/
     - derive/^m/b/ #The m is mb or b or m depending on dialects
     - derive/iunn/ionn/	
+    - derive/iunn/iaunn/ #Penang Hokkien has most of it in iaunn	
     - derive/niu/nio/
     - derive/ern/en/
     - derive/er/e/
